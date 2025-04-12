@@ -1,0 +1,1321 @@
+Event_Name,Match_Type,Match_Num,Scouter_Initials,Team_Num,Team_Name,Start_Position,Auto_Cargo_Upper,Auto_Cargo_Lower,Auto_Tarmac,Tele_Cargo_Upper,Tele_Cargo_Lower,Hangar_Level,Hangar_Time,Use_Launch_Pad,Cargo_Loaded_Start,Defense_Rating,Speed_Rating,Tippy,Died_in_Match,Penalties
+LoneStarRegional,Playoff,1,MK,217,ThunderChicken,2,1,1,0,9,1,0,13,0,0,5,1,0,0,0
+LoneStarRegional,Qual,2,AB,217,ThunderChicken,1,4,4,1,6,5,1,3,1,0,4,4,0,0,0
+LoneStarRegional,Playoff,3,XZ,217,ThunderChicken,2,2,2,1,9,4,2,3,1,1,1,4,0,0,0
+MidwestRegional,Playoff,4,XZ,217,ThunderChicken,3,1,4,0,8,6,0,25,0,1,1,4,1,0,0
+MidwestRegional,Qual,5,XZ,217,ThunderChicken,3,4,3,1,7,5,4,18,1,1,4,3,1,1,0
+LoneStarRegional,Qual,6,XZ,217,ThunderChicken,2,3,3,0,4,4,3,20,0,1,4,4,0,0,0
+LoneStarRegional,Qual,7,LS,217,ThunderChicken,3,2,4,0,2,6,2,8,1,1,5,3,0,0,1
+LoneStarRegional,Playoff,8,TR,217,ThunderChicken,3,3,1,0,7,2,4,21,1,0,2,1,1,0,0
+PacificRegional,Qual,9,AB,217,ThunderChicken,2,0,0,1,7,5,2,15,1,1,5,4,1,0,0
+LoneStarRegional,Playoff,10,AB,217,ThunderChicken,1,4,0,1,8,1,4,0,1,0,5,3,0,0,0
+PacificRegional,Qual,11,LS,217,ThunderChicken,3,1,2,0,5,2,3,26,0,0,3,3,0,0,0
+MidwestRegional,Qual,12,KP,217,ThunderChicken,3,2,2,0,4,2,1,4,1,1,3,4,1,0,0
+MidwestRegional,Playoff,13,AB,217,ThunderChicken,2,4,3,1,5,8,0,20,1,0,2,5,0,0,0
+LoneStarRegional,Qual,14,TR,217,ThunderChicken,1,4,1,0,5,5,2,4,1,0,5,3,0,0,0
+NEDistrict,Qual,15,AB,217,ThunderChicken,3,2,4,0,6,8,2,6,1,1,2,5,0,0,0
+MidwestRegional,Qual,16,XZ,217,ThunderChicken,2,0,1,0,6,5,2,17,0,1,3,5,1,1,0
+LoneStarRegional,Playoff,17,JD,217,ThunderChicken,1,2,0,0,7,7,4,22,1,0,4,1,1,0,0
+PacificRegional,Qual,18,KP,217,ThunderChicken,1,1,4,1,8,7,0,23,0,1,4,1,1,0,0
+PacificRegional,Playoff,19,TR,217,ThunderChicken,1,2,3,0,8,4,4,12,0,0,3,2,1,0,0
+LoneStarRegional,Playoff,20,LS,217,ThunderChicken,3,4,3,1,8,4,2,17,1,1,3,1,0,0,0
+LoneStarRegional,Qual,21,JD,217,ThunderChicken,3,2,0,1,5,3,3,10,1,1,2,2,0,0,0
+NEDistrict,Playoff,22,TR,217,ThunderChicken,2,0,4,0,8,4,1,18,1,0,4,1,1,0,0
+LoneStarRegional,Playoff,23,JD,217,ThunderChicken,2,4,2,1,5,6,1,13,0,0,2,2,0,0,0
+PacificRegional,Playoff,24,KP,217,ThunderChicken,1,3,1,1,7,9,2,2,1,0,3,3,0,0,0
+LoneStarRegional,Qual,25,AB,217,ThunderChicken,3,3,1,0,8,1,1,25,1,0,4,2,1,0,1
+NEDistrict,Playoff,26,TR,217,ThunderChicken,3,2,1,1,4,9,0,2,1,0,4,5,0,0,0
+MidwestRegional,Playoff,27,XZ,217,ThunderChicken,3,1,1,0,3,1,1,8,1,1,2,1,0,0,0
+LoneStarRegional,Qual,28,JD,217,ThunderChicken,3,4,4,1,9,5,1,20,0,0,1,1,0,0,0
+NEDistrict,Qual,29,LS,217,ThunderChicken,2,2,1,0,2,3,3,24,0,0,2,1,0,0,0
+MidwestRegional,Playoff,30,JD,217,ThunderChicken,2,4,0,1,4,6,0,23,0,1,4,3,0,0,0
+NEDistrict,Playoff,31,MK,217,ThunderChicken,3,3,2,0,8,4,4,26,1,0,2,5,0,0,0
+MidwestRegional,Qual,32,AB,217,ThunderChicken,3,0,1,0,9,6,0,30,1,1,2,3,1,0,0
+PacificRegional,Playoff,33,KP,217,ThunderChicken,3,2,2,0,6,6,2,14,0,0,2,4,1,0,0
+LoneStarRegional,Playoff,1,TR,280,TnT,2,2,0,1,8,9,1,12,1,1,5,1,0,0,0
+PacificRegional,Qual,2,XZ,280,TnT,3,3,4,0,4,8,4,27,0,0,1,3,1,0,1
+MidwestRegional,Qual,3,MK,280,TnT,3,0,4,1,8,7,0,18,0,1,5,4,1,0,0
+MidwestRegional,Playoff,4,XZ,280,TnT,2,3,3,0,5,6,4,21,1,0,3,4,0,0,1
+LoneStarRegional,Playoff,5,AB,280,TnT,1,1,1,0,3,2,4,4,1,0,5,3,0,0,0
+NEDistrict,Qual,6,JD,280,TnT,3,4,4,0,8,7,0,1,1,0,5,4,0,0,1
+LoneStarRegional,Playoff,7,AB,280,TnT,1,0,1,1,6,6,1,3,1,1,2,3,0,0,0
+LoneStarRegional,Playoff,8,XZ,280,TnT,3,1,1,0,7,9,1,0,0,1,5,3,1,0,0
+LoneStarRegional,Playoff,9,JD,280,TnT,3,2,1,0,6,6,0,24,1,1,5,5,0,0,0
+PacificRegional,Playoff,10,MK,280,TnT,2,0,4,1,4,4,3,30,1,1,1,3,1,0,0
+LoneStarRegional,Qual,11,JD,280,TnT,3,3,2,1,6,9,1,15,0,1,4,4,0,0,0
+NEDistrict,Qual,12,TR,280,TnT,3,4,1,1,4,8,2,28,1,1,4,3,1,0,0
+PacificRegional,Qual,13,TR,280,TnT,2,3,3,0,3,4,0,9,1,0,2,4,1,0,0
+MidwestRegional,Qual,14,MK,280,TnT,2,0,1,1,0,1,0,21,0,0,4,4,1,0,0
+MidwestRegional,Playoff,15,JD,280,TnT,1,3,4,1,6,8,1,24,0,1,5,3,0,0,0
+LoneStarRegional,Playoff,16,AB,280,TnT,1,0,0,0,1,5,1,8,1,0,1,2,1,0,0
+MidwestRegional,Playoff,17,TR,280,TnT,2,4,2,0,7,8,0,23,1,1,3,3,1,0,2
+MidwestRegional,Qual,18,MK,280,TnT,2,2,3,1,9,4,3,14,0,0,1,5,0,0,0
+PacificRegional,Qual,19,JD,280,TnT,3,3,4,0,8,5,2,14,1,0,4,1,1,0,0
+PacificRegional,Playoff,20,KP,280,TnT,3,3,0,0,6,4,2,25,1,0,3,3,0,0,0
+LoneStarRegional,Playoff,21,AB,280,TnT,3,1,4,1,7,5,4,4,1,1,5,1,1,0,0
+PacificRegional,Qual,22,KP,280,TnT,2,0,3,1,9,8,2,9,1,1,3,5,1,0,1
+MidwestRegional,Playoff,23,LS,280,TnT,3,1,1,1,1,7,1,8,0,0,1,4,0,0,0
+NEDistrict,Playoff,24,JD,280,TnT,2,0,3,0,9,8,0,24,0,1,5,5,0,0,0
+NEDistrict,Qual,25,XZ,280,TnT,1,1,2,1,6,4,0,2,0,0,3,1,0,0,1
+NEDistrict,Playoff,26,KP,280,TnT,2,1,3,1,4,5,1,27,1,1,4,2,0,0,0
+PacificRegional,Qual,27,AB,280,TnT,3,4,4,1,5,5,3,29,0,0,3,1,0,0,0
+NEDistrict,Playoff,28,XZ,280,TnT,3,0,1,1,0,4,4,8,0,1,1,5,0,0,0
+MidwestRegional,Playoff,29,XZ,280,TnT,3,4,4,1,8,6,0,14,1,0,1,3,0,0,0
+NEDistrict,Playoff,30,LS,280,TnT,2,0,1,0,5,2,0,19,1,1,4,2,1,0,0
+NEDistrict,Qual,31,LS,280,TnT,3,3,1,1,8,7,2,15,0,0,5,1,1,0,0
+LoneStarRegional,Playoff,32,XZ,280,TnT,3,1,3,0,1,9,1,12,1,1,4,2,0,0,0
+PacificRegional,Playoff,33,AB,280,TnT,2,4,1,1,7,3,0,9,1,1,5,2,1,0,0
+LoneStarRegional,Playoff,1,MK,503,Frog Force,3,4,4,1,9,6,0,29,0,0,5,4,1,0,0
+NEDistrict,Playoff,2,JD,503,Frog Force,2,0,3,1,1,6,1,29,1,0,3,2,1,0,0
+MidwestRegional,Playoff,3,AB,503,Frog Force,3,3,4,1,6,5,2,13,1,0,1,4,0,0,0
+NEDistrict,Qual,4,KP,503,Frog Force,1,2,3,1,8,3,3,18,1,0,3,5,0,0,0
+NEDistrict,Qual,5,AB,503,Frog Force,2,4,0,0,8,8,2,0,1,0,3,1,1,0,0
+NEDistrict,Qual,6,KP,503,Frog Force,1,3,0,0,8,4,4,6,1,0,2,4,1,0,0
+LoneStarRegional,Playoff,7,XZ,503,Frog Force,1,0,4,1,0,8,2,16,1,1,2,3,0,0,1
+LoneStarRegional,Playoff,8,LS,503,Frog Force,3,1,3,1,2,3,0,1,1,0,5,1,1,0,0
+MidwestRegional,Playoff,9,JD,503,Frog Force,1,3,0,0,7,1,3,18,0,1,2,3,0,0,0
+LoneStarRegional,Qual,10,MK,503,Frog Force,1,1,0,0,6,7,3,2,1,1,1,4,0,0,0
+LoneStarRegional,Playoff,11,MK,503,Frog Force,1,4,2,1,7,7,2,9,0,1,3,3,1,0,0
+MidwestRegional,Qual,12,TR,503,Frog Force,2,3,0,0,3,0,4,16,0,0,2,5,0,0,0
+PacificRegional,Qual,13,XZ,503,Frog Force,3,3,4,1,6,6,1,16,1,1,1,1,0,0,0
+MidwestRegional,Playoff,14,XZ,503,Frog Force,1,0,0,1,7,4,2,2,0,0,5,5,1,0,0
+LoneStarRegional,Qual,15,TR,503,Frog Force,3,4,0,1,5,4,0,19,0,0,5,4,1,0,0
+NEDistrict,Qual,16,KP,503,Frog Force,1,1,3,1,8,7,1,6,1,1,1,4,1,0,0
+PacificRegional,Playoff,17,AB,503,Frog Force,3,0,4,1,6,8,0,5,1,1,5,1,0,0,1
+LoneStarRegional,Qual,18,XZ,503,Frog Force,2,2,1,1,6,1,3,28,0,1,3,1,1,0,0
+LoneStarRegional,Playoff,19,KP,503,Frog Force,1,2,3,1,8,3,0,23,0,0,5,1,1,0,0
+PacificRegional,Playoff,20,KP,503,Frog Force,2,2,2,1,9,4,0,22,0,1,2,3,0,0,1
+NEDistrict,Playoff,21,TR,503,Frog Force,2,3,2,1,4,2,2,20,0,1,1,2,0,0,1
+MidwestRegional,Playoff,22,JD,503,Frog Force,1,1,1,0,8,4,0,22,0,0,5,2,1,0,0
+LoneStarRegional,Playoff,23,LS,503,Frog Force,1,2,4,1,4,5,1,16,1,1,1,4,1,0,0
+MidwestRegional,Qual,24,LS,503,Frog Force,1,1,4,0,3,9,0,21,1,0,4,2,0,0,0
+LoneStarRegional,Qual,25,TR,503,Frog Force,3,1,2,1,4,2,4,7,1,1,2,2,1,0,1
+MidwestRegional,Playoff,26,TR,503,Frog Force,3,3,4,0,8,5,2,11,0,0,5,1,1,0,0
+MidwestRegional,Playoff,27,TR,503,Frog Force,3,4,3,1,7,4,0,25,0,0,4,5,0,0,0
+NEDistrict,Playoff,28,XZ,503,Frog Force,3,3,3,1,4,9,3,24,0,0,5,4,1,0,0
+PacificRegional,Playoff,29,AB,503,Frog Force,1,2,3,1,4,9,1,30,0,1,3,4,1,0,0
+NEDistrict,Qual,30,KP,503,Frog Force,3,1,3,1,8,7,2,1,1,0,5,4,1,0,0
+PacificRegional,Qual,31,AB,503,Frog Force,2,0,4,0,0,8,1,24,1,1,2,5,1,0,1
+MidwestRegional,Qual,32,XZ,503,Frog Force,3,3,0,1,7,7,1,22,1,1,4,1,1,0,0
+PacificRegional,Playoff,33,LS,503,Frog Force,3,3,4,1,8,8,2,13,1,1,3,3,1,0,0
+LoneStarRegional,Playoff,1,MK,1023,Bedford Express,2,0,3,0,3,7,2,5,1,0,5,2,1,0,0
+LoneStarRegional,Playoff,2,XZ,1023,Bedford Express,3,0,0,1,7,2,4,15,1,1,4,4,0,0,0
+PacificRegional,Playoff,3,LS,1023,Bedford Express,3,2,4,1,7,6,3,18,0,1,1,4,1,0,0
+NEDistrict,Playoff,4,TR,1023,Bedford Express,3,4,2,1,5,5,4,2,1,0,1,2,1,0,1
+MidwestRegional,Playoff,5,MK,1023,Bedford Express,1,4,1,1,9,8,4,18,0,1,1,3,1,0,0
+LoneStarRegional,Playoff,6,TR,1023,Bedford Express,2,4,1,0,9,2,1,23,0,0,1,2,1,0,0
+MidwestRegional,Qual,7,AB,1023,Bedford Express,2,2,0,1,4,6,2,3,0,0,4,1,0,0,0
+MidwestRegional,Qual,8,AB,1023,Bedford Express,3,3,2,1,3,9,3,24,0,1,3,1,0,0,0
+NEDistrict,Playoff,9,JD,1023,Bedford Express,3,0,4,1,9,7,2,9,1,1,2,5,1,0,0
+PacificRegional,Qual,10,XZ,1023,Bedford Express,3,2,4,1,4,8,2,23,0,1,3,3,1,0,0
+MidwestRegional,Playoff,11,JD,1023,Bedford Express,1,3,2,1,5,6,3,17,0,1,4,1,1,0,0
+LoneStarRegional,Playoff,12,XZ,1023,Bedford Express,1,4,1,0,6,3,3,27,0,0,1,4,1,0,0
+NEDistrict,Playoff,13,LS,1023,Bedford Express,1,2,3,0,2,5,4,4,1,0,1,5,1,0,0
+NEDistrict,Playoff,14,LS,1023,Bedford Express,2,2,3,1,4,8,1,5,1,1,3,1,0,0,0
+LoneStarRegional,Qual,15,XZ,1023,Bedford Express,2,1,2,1,6,8,3,19,1,1,1,3,0,0,0
+MidwestRegional,Playoff,16,KP,1023,Bedford Express,1,1,4,0,1,9,2,29,1,1,3,3,0,0,1
+PacificRegional,Playoff,17,AB,1023,Bedford Express,2,0,0,0,6,3,3,23,1,1,2,5,1,0,0
+MidwestRegional,Playoff,18,JD,1023,Bedford Express,3,3,0,0,7,8,1,8,1,1,3,4,1,0,0
+NEDistrict,Playoff,19,JD,1023,Bedford Express,2,3,0,1,5,8,2,12,0,1,1,2,1,0,0
+LoneStarRegional,Playoff,20,AB,1023,Bedford Express,1,1,1,1,2,8,0,0,0,0,2,1,0,0,0
+LoneStarRegional,Qual,21,KP,1023,Bedford Express,2,2,3,0,2,5,4,27,1,0,5,3,0,0,0
+LoneStarRegional,Qual,22,KP,1023,Bedford Express,2,1,2,0,5,2,4,21,0,1,3,3,0,0,1
+NEDistrict,Qual,23,TR,1023,Bedford Express,2,2,1,1,9,1,0,21,1,0,4,4,1,0,0
+LoneStarRegional,Playoff,24,XZ,1023,Bedford Express,3,2,3,0,4,6,1,3,0,1,4,1,0,0,0
+MidwestRegional,Qual,25,TR,1023,Bedford Express,2,2,1,0,3,9,4,8,1,0,5,3,0,0,1
+LoneStarRegional,Qual,26,LS,1023,Bedford Express,3,0,1,1,3,1,0,17,0,1,1,3,0,0,0
+PacificRegional,Qual,27,JD,1023,Bedford Express,2,2,2,1,6,3,4,29,1,1,1,4,0,0,0
+LoneStarRegional,Playoff,28,LS,1023,Bedford Express,3,1,1,1,4,1,3,12,1,0,5,4,1,0,0
+LoneStarRegional,Playoff,29,AB,1023,Bedford Express,3,1,0,1,8,0,1,22,0,0,2,1,1,0,0
+LoneStarRegional,Qual,30,LS,1023,Bedford Express,3,0,3,0,1,6,3,16,0,1,4,1,1,0,1
+MidwestRegional,Qual,31,LS,1023,Bedford Express,2,2,4,1,5,9,0,8,1,1,3,2,0,0,0
+MidwestRegional,Qual,32,XZ,1023,Bedford Express,3,0,3,0,0,4,3,13,0,0,2,2,0,0,0
+MidwestRegional,Playoff,33,KP,1023,Bedford Express,1,2,1,0,4,1,1,8,0,1,5,3,0,0,0
+LoneStarRegional,Playoff,1,XZ,1076,Pi Hi Samurai,2,0,0,0,9,3,3,0,0,0,1,1,0,0,0
+PacificRegional,Qual,2,LS,1076,Pi Hi Samurai,3,1,4,0,7,5,2,30,1,0,1,4,1,0,0
+PacificRegional,Qual,3,JD,1076,Pi Hi Samurai,2,4,1,1,4,5,0,14,0,1,2,3,1,0,0
+MidwestRegional,Qual,4,AB,1076,Pi Hi Samurai,1,0,0,0,2,0,0,16,0,1,2,3,0,0,1
+PacificRegional,Qual,5,LS,1076,Pi Hi Samurai,3,2,1,1,3,8,1,18,0,0,4,4,0,0,0
+MidwestRegional,Playoff,6,JD,1076,Pi Hi Samurai,1,2,1,0,5,6,4,8,0,1,1,5,1,0,1
+PacificRegional,Playoff,7,TR,1076,Pi Hi Samurai,2,0,3,0,9,3,0,8,1,1,1,3,0,0,2
+LoneStarRegional,Playoff,8,JD,1076,Pi Hi Samurai,1,4,2,0,8,9,3,27,0,1,5,4,1,0,0
+LoneStarRegional,Qual,9,XZ,1076,Pi Hi Samurai,2,0,2,1,0,8,1,7,1,1,2,5,0,0,0
+MidwestRegional,Playoff,10,MK,1076,Pi Hi Samurai,3,1,3,0,6,5,0,7,1,1,5,4,0,0,0
+PacificRegional,Playoff,11,KP,1076,Pi Hi Samurai,2,0,4,1,8,4,4,9,1,0,1,3,0,0,0
+NEDistrict,Playoff,12,KP,1076,Pi Hi Samurai,3,0,1,1,2,4,0,21,1,1,1,5,1,0,0
+PacificRegional,Qual,13,JD,1076,Pi Hi Samurai,3,4,2,0,4,9,2,25,1,0,5,2,1,0,0
+MidwestRegional,Qual,14,MK,1076,Pi Hi Samurai,2,1,4,1,1,4,1,0,0,1,5,1,1,1,0
+MidwestRegional,Playoff,15,LS,1076,Pi Hi Samurai,2,1,4,0,9,5,2,7,0,1,2,2,0,0,0
+NEDistrict,Playoff,16,TR,1076,Pi Hi Samurai,3,3,1,1,8,3,4,23,0,0,2,4,1,0,0
+NEDistrict,Playoff,17,LS,1076,Pi Hi Samurai,2,1,0,0,1,3,4,15,0,1,1,1,0,0,0
+NEDistrict,Qual,18,TR,1076,Pi Hi Samurai,3,2,2,0,2,4,0,8,0,0,4,3,0,0,0
+NEDistrict,Qual,19,TR,1076,Pi Hi Samurai,2,1,1,0,6,2,3,4,1,0,1,3,1,0,2
+LoneStarRegional,Playoff,20,AB,1076,Pi Hi Samurai,1,1,1,1,8,7,1,18,0,0,2,4,1,0,0
+NEDistrict,Playoff,21,XZ,1076,Pi Hi Samurai,1,2,4,0,4,8,0,11,0,0,1,4,1,0,0
+MidwestRegional,Qual,22,KP,1076,Pi Hi Samurai,3,1,0,0,2,0,0,9,1,1,4,3,0,0,1
+MidwestRegional,Qual,23,KP,1076,Pi Hi Samurai,2,2,3,0,4,7,2,14,1,1,2,5,1,0,0
+MidwestRegional,Qual,24,LS,1076,Pi Hi Samurai,3,3,1,1,3,4,2,24,0,1,4,2,1,0,0
+MidwestRegional,Qual,25,XZ,1076,Pi Hi Samurai,2,1,2,0,6,2,0,14,1,1,1,3,0,0,0
+LoneStarRegional,Qual,26,MK,1076,Pi Hi Samurai,3,2,3,1,6,5,2,17,0,0,3,1,0,0,0
+PacificRegional,Qual,27,TR,1076,Pi Hi Samurai,3,0,1,0,8,7,3,7,0,1,5,3,0,0,0
+MidwestRegional,Qual,28,KP,1076,Pi Hi Samurai,1,2,4,0,2,9,2,2,0,1,4,2,0,0,1
+PacificRegional,Playoff,29,JD,1076,Pi Hi Samurai,1,1,2,1,6,5,0,8,0,1,4,2,1,0,0
+LoneStarRegional,Playoff,30,TR,1076,Pi Hi Samurai,3,2,2,0,4,3,4,19,0,0,2,4,1,0,0
+LoneStarRegional,Playoff,31,KP,1076,Pi Hi Samurai,3,3,4,0,5,9,1,10,0,0,4,2,1,0,1
+PacificRegional,Qual,32,LS,1076,Pi Hi Samurai,1,4,0,0,6,8,3,27,0,0,3,4,1,0,0
+PacificRegional,Playoff,33,XZ,1076,Pi Hi Samurai,2,4,1,0,9,5,1,5,1,0,1,4,0,0,0
+PacificRegional,Playoff,1,AB,1502,Technical Difficulties,2,4,0,1,6,6,4,5,1,0,3,3,1,0,0
+NEDistrict,Playoff,2,MK,1502,Technical Difficulties,1,3,0,0,8,5,1,16,0,1,4,5,1,0,0
+NEDistrict,Qual,3,XZ,1502,Technical Difficulties,1,0,1,1,8,2,0,8,1,0,5,1,0,0,0
+MidwestRegional,Qual,4,TR,1502,Technical Difficulties,1,3,0,0,3,7,2,16,1,1,3,3,1,0,0
+NEDistrict,Playoff,5,KP,1502,Technical Difficulties,1,0,3,1,9,8,1,5,1,1,2,2,0,0,0
+NEDistrict,Playoff,6,XZ,1502,Technical Difficulties,2,3,2,0,9,2,0,6,1,0,3,5,0,0,0
+LoneStarRegional,Qual,7,KP,1502,Technical Difficulties,1,3,1,0,5,5,0,17,1,0,1,4,1,0,1
+NEDistrict,Qual,8,KP,1502,Technical Difficulties,3,1,0,0,8,5,3,12,0,0,1,4,1,0,0
+LoneStarRegional,Qual,9,XZ,1502,Technical Difficulties,3,4,0,1,4,7,4,23,0,0,5,2,1,0,1
+MidwestRegional,Qual,10,MK,1502,Technical Difficulties,2,0,3,1,1,7,0,20,0,1,3,1,1,0,0
+MidwestRegional,Qual,11,LS,1502,Technical Difficulties,3,4,3,0,4,4,4,13,1,1,5,4,1,0,0
+NEDistrict,Playoff,12,LS,1502,Technical Difficulties,1,0,0,1,2,6,1,19,1,1,1,1,1,0,0
+LoneStarRegional,Playoff,13,AB,1502,Technical Difficulties,1,0,0,1,1,0,2,3,1,0,2,2,1,0,0
+MidwestRegional,Qual,14,MK,1502,Technical Difficulties,1,4,4,0,7,4,1,29,0,0,2,2,0,0,2
+PacificRegional,Playoff,15,KP,1502,Technical Difficulties,3,2,1,1,3,8,3,11,0,0,3,3,1,0,0
+NEDistrict,Qual,16,XZ,1502,Technical Difficulties,1,1,0,0,7,6,4,1,1,0,2,2,1,0,2
+NEDistrict,Playoff,17,LS,1502,Technical Difficulties,2,2,2,1,3,6,4,18,0,0,2,3,0,0,0
+LoneStarRegional,Playoff,18,AB,1502,Technical Difficulties,1,4,3,1,8,9,4,20,0,1,4,3,1,1,0
+LoneStarRegional,Playoff,19,TR,1502,Technical Difficulties,1,4,0,1,5,4,0,13,1,0,1,2,1,0,0
+PacificRegional,Qual,20,KP,1502,Technical Difficulties,2,2,3,0,2,7,4,4,1,1,2,3,0,0,0
+LoneStarRegional,Qual,21,AB,1502,Technical Difficulties,1,0,4,0,4,6,0,12,0,1,5,5,0,0,2
+LoneStarRegional,Qual,22,AB,1502,Technical Difficulties,1,2,2,0,7,9,4,8,0,0,2,3,0,0,0
+LoneStarRegional,Qual,23,JD,1502,Technical Difficulties,3,4,3,0,6,4,1,1,0,1,5,1,0,0,0
+PacificRegional,Qual,24,AB,1502,Technical Difficulties,1,4,0,1,5,1,3,14,0,0,3,4,1,0,0
+MidwestRegional,Playoff,25,LS,1502,Technical Difficulties,1,0,3,0,0,7,1,1,1,1,5,1,1,0,0
+NEDistrict,Qual,26,KP,1502,Technical Difficulties,1,0,1,1,5,6,4,19,0,1,5,5,0,0,0
+PacificRegional,Playoff,27,TR,1502,Technical Difficulties,1,0,0,1,1,8,1,13,1,1,3,5,1,0,0
+NEDistrict,Qual,28,LS,1502,Technical Difficulties,2,0,0,0,9,1,2,9,0,0,3,1,0,0,0
+PacificRegional,Qual,29,LS,1502,Technical Difficulties,1,2,0,1,9,5,2,18,0,0,3,1,0,0,0
+PacificRegional,Playoff,30,TR,1502,Technical Difficulties,1,0,2,1,1,7,2,23,0,1,5,1,0,0,0
+LoneStarRegional,Playoff,31,LS,1502,Technical Difficulties,3,4,0,1,7,8,4,5,0,1,3,4,0,0,0
+MidwestRegional,Qual,32,MK,1502,Technical Difficulties,3,3,1,0,4,7,2,20,1,0,2,4,0,0,0
+MidwestRegional,Playoff,33,TR,1502,Technical Difficulties,1,0,4,0,0,8,1,22,1,0,5,4,0,0,0
+PacificRegional,Qual,1,JD,1528,MTR,2,4,1,0,6,9,3,11,1,1,2,5,0,0,0
+MidwestRegional,Playoff,2,LS,1528,MTR,1,1,2,1,5,9,0,13,0,0,5,1,0,0,0
+NEDistrict,Qual,3,AB,1528,MTR,1,2,3,0,2,8,3,6,0,1,4,1,1,0,0
+NEDistrict,Playoff,4,LS,1528,MTR,3,0,3,1,3,7,4,25,0,0,3,3,0,0,0
+NEDistrict,Qual,5,TR,1528,MTR,2,1,4,0,2,4,4,5,0,0,5,2,1,0,0
+NEDistrict,Playoff,6,MK,1528,MTR,2,2,3,1,3,5,4,1,0,0,3,4,0,0,0
+LoneStarRegional,Qual,7,XZ,1528,MTR,2,0,1,1,2,6,4,7,0,0,3,2,0,0,0
+NEDistrict,Playoff,8,AB,1528,MTR,1,1,0,1,2,7,1,29,1,0,4,4,1,0,0
+LoneStarRegional,Playoff,9,XZ,1528,MTR,3,1,3,0,1,9,3,10,0,0,5,5,0,0,0
+MidwestRegional,Playoff,10,LS,1528,MTR,1,0,1,1,8,5,3,3,1,1,3,5,1,1,0
+PacificRegional,Qual,11,TR,1528,MTR,1,4,0,0,8,0,2,14,0,0,5,4,1,0,0
+PacificRegional,Playoff,12,TR,1528,MTR,3,3,3,0,4,9,4,2,1,1,3,1,0,0,1
+PacificRegional,Playoff,13,JD,1528,MTR,3,0,4,0,0,7,1,21,1,1,2,4,1,0,2
+LoneStarRegional,Playoff,14,TR,1528,MTR,3,2,3,0,6,3,1,9,1,0,5,3,1,0,0
+MidwestRegional,Playoff,15,TR,1528,MTR,3,4,1,1,8,8,3,8,0,1,1,2,1,0,0
+LoneStarRegional,Playoff,16,TR,1528,MTR,1,3,4,1,8,7,2,8,0,1,4,5,0,0,1
+PacificRegional,Qual,17,XZ,1528,MTR,1,4,0,0,4,0,2,8,1,1,3,5,0,0,0
+LoneStarRegional,Qual,18,TR,1528,MTR,2,3,0,1,3,8,1,17,0,1,5,4,1,0,1
+MidwestRegional,Qual,19,LS,1528,MTR,3,3,2,1,5,2,4,14,1,0,2,5,1,0,0
+MidwestRegional,Qual,20,MK,1528,MTR,2,1,1,1,6,6,3,24,0,0,4,5,1,0,0
+MidwestRegional,Qual,21,AB,1528,MTR,1,2,1,0,4,3,4,12,0,1,1,5,1,0,0
+NEDistrict,Playoff,22,AB,1528,MTR,2,2,1,0,3,6,4,5,0,1,1,2,1,0,1
+LoneStarRegional,Playoff,23,AB,1528,MTR,2,1,1,1,2,4,3,0,1,1,5,5,0,0,0
+PacificRegional,Playoff,24,LS,1528,MTR,1,0,3,1,6,9,0,29,0,0,5,4,0,0,0
+LoneStarRegional,Qual,25,AB,1528,MTR,3,1,0,0,2,9,4,4,1,1,5,1,0,0,0
+LoneStarRegional,Qual,26,LS,1528,MTR,3,4,1,1,6,9,4,17,0,1,4,1,0,0,0
+LoneStarRegional,Qual,27,KP,1528,MTR,2,2,3,0,7,8,3,24,1,0,2,1,0,0,0
+LoneStarRegional,Playoff,28,MK,1528,MTR,2,4,1,1,8,9,4,19,0,0,5,5,0,0,0
+MidwestRegional,Playoff,29,TR,1528,MTR,2,0,4,1,4,5,1,15,1,0,5,1,0,0,0
+LoneStarRegional,Qual,30,MK,1528,MTR,2,1,4,1,7,6,0,3,0,1,3,2,1,0,0
+LoneStarRegional,Playoff,31,LS,1528,MTR,2,1,2,0,8,2,4,15,0,1,1,3,1,0,0
+LoneStarRegional,Playoff,32,MK,1528,MTR,1,4,3,1,9,6,2,27,0,1,1,4,1,0,0
+PacificRegional,Playoff,33,MK,1528,MTR,1,4,3,0,9,6,1,22,1,0,1,1,1,0,1
+NEDistrict,Qual,1,KP,2611,Jacktown Vectors,3,3,2,0,3,5,3,1,1,0,3,1,0,0,0
+MidwestRegional,Qual,2,JD,2611,Jacktown Vectors,1,3,3,0,6,4,3,16,0,1,2,5,0,0,0
+MidwestRegional,Qual,3,KP,2611,Jacktown Vectors,2,4,2,0,5,7,3,0,1,0,3,5,1,0,0
+MidwestRegional,Qual,4,AB,2611,Jacktown Vectors,1,2,1,1,8,4,4,8,1,1,5,2,1,0,0
+LoneStarRegional,Qual,5,JD,2611,Jacktown Vectors,3,2,1,0,6,5,4,18,0,1,3,3,0,0,0
+MidwestRegional,Playoff,6,KP,2611,Jacktown Vectors,1,1,1,1,7,5,4,22,1,0,1,5,0,0,0
+NEDistrict,Qual,7,MK,2611,Jacktown Vectors,1,0,3,1,2,3,3,24,0,0,1,4,0,0,0
+PacificRegional,Qual,8,TR,2611,Jacktown Vectors,2,1,1,1,3,6,3,3,0,0,1,3,0,0,0
+MidwestRegional,Qual,9,MK,2611,Jacktown Vectors,1,0,0,1,4,9,0,19,1,0,4,3,0,0,0
+PacificRegional,Playoff,10,AB,2611,Jacktown Vectors,2,2,1,0,9,7,1,16,0,0,2,4,1,0,0
+NEDistrict,Qual,11,MK,2611,Jacktown Vectors,3,1,3,0,2,7,4,18,0,1,1,2,1,0,1
+NEDistrict,Playoff,12,JD,2611,Jacktown Vectors,3,0,2,1,3,7,1,8,0,0,5,2,1,0,0
+PacificRegional,Playoff,13,TR,2611,Jacktown Vectors,2,1,1,0,5,5,2,4,1,1,1,3,0,0,0
+PacificRegional,Playoff,14,JD,2611,Jacktown Vectors,3,2,2,1,9,5,2,0,1,1,2,1,1,1,0
+MidwestRegional,Qual,15,TR,2611,Jacktown Vectors,2,1,2,1,2,3,4,30,1,0,3,2,0,0,0
+LoneStarRegional,Playoff,16,JD,2611,Jacktown Vectors,2,3,1,1,8,5,3,20,1,1,3,5,1,0,0
+MidwestRegional,Qual,17,KP,2611,Jacktown Vectors,3,1,0,0,2,3,1,0,1,1,2,1,1,0,2
+NEDistrict,Qual,18,TR,2611,Jacktown Vectors,1,0,4,1,8,7,0,15,0,0,1,5,0,0,0
+NEDistrict,Qual,19,JD,2611,Jacktown Vectors,1,0,1,0,0,1,3,25,1,1,5,4,0,0,1
+LoneStarRegional,Playoff,20,MK,2611,Jacktown Vectors,1,1,0,1,8,6,0,28,0,0,5,4,1,1,0
+PacificRegional,Qual,21,LS,2611,Jacktown Vectors,1,3,4,0,7,7,4,23,1,1,5,1,0,0,0
+NEDistrict,Qual,22,KP,2611,Jacktown Vectors,1,2,0,1,9,7,4,1,0,1,5,4,0,0,0
+NEDistrict,Playoff,23,MK,2611,Jacktown Vectors,1,0,1,0,9,1,3,6,1,0,2,5,1,0,0
+LoneStarRegional,Playoff,24,KP,2611,Jacktown Vectors,2,1,2,1,1,9,3,26,0,0,4,3,1,0,1
+MidwestRegional,Playoff,25,KP,2611,Jacktown Vectors,3,0,1,1,0,3,3,25,1,0,5,1,1,0,2
+MidwestRegional,Qual,26,JD,2611,Jacktown Vectors,2,2,3,1,2,7,1,21,0,0,5,3,1,0,0
+NEDistrict,Playoff,27,TR,2611,Jacktown Vectors,2,4,0,1,9,6,2,23,0,1,3,1,1,0,1
+MidwestRegional,Qual,28,KP,2611,Jacktown Vectors,1,2,0,0,4,8,4,24,1,0,5,5,1,0,0
+LoneStarRegional,Playoff,29,KP,2611,Jacktown Vectors,1,4,1,1,8,2,3,29,0,1,1,3,0,0,0
+NEDistrict,Playoff,30,KP,2611,Jacktown Vectors,1,4,3,0,8,5,2,0,1,1,5,3,0,0,0
+LoneStarRegional,Qual,31,AB,2611,Jacktown Vectors,3,4,2,0,8,2,1,25,1,1,3,1,1,0,0
+NEDistrict,Qual,32,KP,2611,Jacktown Vectors,3,2,1,1,3,7,3,9,0,0,4,2,1,0,0
+PacificRegional,Playoff,33,TR,2611,Jacktown Vectors,1,2,2,0,9,9,2,29,0,1,3,2,0,0,1
+NEDistrict,Qual,1,MK,3538,RoboJackets,1,1,1,1,1,5,0,18,0,0,3,5,0,0,0
+LoneStarRegional,Playoff,2,MK,3538,RoboJackets,1,4,2,1,7,3,2,16,0,1,3,5,0,0,1
+NEDistrict,Qual,3,AB,3538,RoboJackets,2,1,2,0,8,4,1,22,1,1,4,2,0,0,0
+LoneStarRegional,Playoff,4,LS,3538,RoboJackets,1,0,1,0,7,4,0,26,0,0,2,3,1,0,0
+PacificRegional,Qual,5,JD,3538,RoboJackets,2,4,3,0,6,5,1,25,1,0,2,1,0,0,1
+MidwestRegional,Qual,6,XZ,3538,RoboJackets,1,1,3,1,7,9,1,30,1,0,4,5,0,0,0
+NEDistrict,Qual,7,XZ,3538,RoboJackets,2,3,0,0,3,3,1,28,1,1,4,1,1,0,0
+PacificRegional,Playoff,8,AB,3538,RoboJackets,3,2,0,1,9,0,3,15,0,1,3,2,0,0,0
+PacificRegional,Playoff,9,KP,3538,RoboJackets,1,4,0,1,7,0,3,11,1,0,5,5,0,0,1
+NEDistrict,Qual,10,TR,3538,RoboJackets,3,1,3,0,5,4,0,17,1,0,5,1,0,0,0
+MidwestRegional,Qual,11,MK,3538,RoboJackets,2,3,1,1,6,2,0,7,1,1,5,4,0,0,0
+PacificRegional,Qual,12,LS,3538,RoboJackets,1,3,0,1,8,9,1,0,0,1,2,2,1,0,0
+NEDistrict,Playoff,13,KP,3538,RoboJackets,1,3,0,1,4,6,3,14,1,1,4,4,0,0,0
+NEDistrict,Playoff,14,TR,3538,RoboJackets,2,3,3,0,6,4,2,9,1,1,5,2,0,0,0
+LoneStarRegional,Qual,15,LS,3538,RoboJackets,1,3,1,0,9,6,0,9,1,0,3,1,1,0,0
+MidwestRegional,Playoff,16,KP,3538,RoboJackets,2,1,1,0,1,3,4,13,0,1,4,5,1,1,0
+PacificRegional,Playoff,17,JD,3538,RoboJackets,1,2,4,0,4,4,0,1,0,1,1,4,0,1,0
+LoneStarRegional,Qual,18,AB,3538,RoboJackets,2,3,0,0,6,5,2,22,1,0,4,1,0,0,1
+NEDistrict,Qual,19,AB,3538,RoboJackets,2,1,3,1,2,3,0,4,1,1,5,1,1,0,0
+MidwestRegional,Playoff,20,TR,3538,RoboJackets,3,3,0,1,9,7,0,5,1,1,5,1,1,0,0
+MidwestRegional,Playoff,21,XZ,3538,RoboJackets,2,3,2,1,6,7,4,4,0,0,2,5,0,0,0
+LoneStarRegional,Playoff,22,TR,3538,RoboJackets,1,0,4,0,6,8,3,14,1,1,4,5,0,0,0
+NEDistrict,Qual,23,AB,3538,RoboJackets,1,4,3,0,7,4,2,21,1,0,3,2,0,0,0
+LoneStarRegional,Playoff,24,XZ,3538,RoboJackets,1,1,3,0,8,6,0,12,1,0,1,2,1,0,0
+PacificRegional,Playoff,25,XZ,3538,RoboJackets,1,3,2,0,4,2,4,0,0,0,5,2,1,0,0
+NEDistrict,Playoff,26,TR,3538,RoboJackets,1,1,2,0,5,8,3,25,1,0,2,2,0,0,0
+LoneStarRegional,Qual,27,AB,3538,RoboJackets,3,0,3,1,7,8,1,19,1,1,1,3,0,0,0
+MidwestRegional,Playoff,28,JD,3538,RoboJackets,3,3,0,0,9,6,1,8,0,1,2,4,1,0,0
+PacificRegional,Qual,29,XZ,3538,RoboJackets,1,2,2,1,6,9,4,10,1,0,2,5,1,0,0
+MidwestRegional,Playoff,30,TR,3538,RoboJackets,1,1,3,0,9,5,1,5,1,0,3,3,0,0,1
+MidwestRegional,Playoff,31,KP,3538,RoboJackets,3,0,2,0,5,5,1,2,0,1,1,3,0,0,0
+NEDistrict,Playoff,32,JD,3538,RoboJackets,1,1,2,0,2,5,1,11,1,1,2,4,1,0,0
+LoneStarRegional,Qual,33,TR,3538,RoboJackets,2,1,0,1,4,0,2,4,1,1,1,4,1,0,1
+LoneStarRegional,Qual,1,LS,3542,S.P.E.E.D,1,4,4,1,6,4,1,27,0,0,3,5,1,0,0
+PacificRegional,Playoff,2,AB,3542,S.P.E.E.D,3,2,0,1,5,6,3,21,1,0,3,3,0,0,0
+PacificRegional,Playoff,3,TR,3542,S.P.E.E.D,1,2,1,0,7,3,1,9,0,1,4,4,1,0,0
+PacificRegional,Playoff,4,MK,3542,S.P.E.E.D,1,4,4,0,4,5,1,16,1,1,5,4,0,1,0
+PacificRegional,Playoff,5,AB,3542,S.P.E.E.D,3,4,4,0,7,6,1,26,1,1,3,3,1,1,0
+NEDistrict,Playoff,6,TR,3542,S.P.E.E.D,1,1,2,1,1,9,1,28,0,0,2,5,0,0,0
+PacificRegional,Playoff,7,AB,3542,S.P.E.E.D,3,0,3,1,9,3,0,13,1,1,4,3,0,0,0
+LoneStarRegional,Qual,8,JD,3542,S.P.E.E.D,2,2,4,1,6,5,0,20,0,1,4,5,1,0,0
+LoneStarRegional,Playoff,9,KP,3542,S.P.E.E.D,3,0,4,0,6,9,0,1,0,1,1,5,1,0,0
+NEDistrict,Playoff,10,LS,3542,S.P.E.E.D,1,0,2,0,2,4,1,0,0,1,1,3,1,0,0
+PacificRegional,Qual,11,XZ,3542,S.P.E.E.D,1,2,2,1,3,3,2,28,0,0,5,2,0,0,0
+LoneStarRegional,Playoff,12,TR,3542,S.P.E.E.D,3,0,0,1,8,6,2,24,1,1,1,1,0,0,1
+MidwestRegional,Qual,13,MK,3542,S.P.E.E.D,1,0,2,1,1,4,4,25,1,0,4,5,1,0,0
+PacificRegional,Qual,14,JD,3542,S.P.E.E.D,3,0,0,1,2,0,0,30,1,1,5,4,0,0,0
+MidwestRegional,Qual,15,MK,3542,S.P.E.E.D,2,1,1,0,4,9,0,3,1,0,5,4,1,0,2
+MidwestRegional,Qual,16,MK,3542,S.P.E.E.D,1,2,3,1,2,6,3,1,1,1,4,1,0,0,0
+NEDistrict,Playoff,17,AB,3542,S.P.E.E.D,2,2,0,1,5,8,1,17,1,0,3,5,1,0,2
+NEDistrict,Qual,18,XZ,3542,S.P.E.E.D,3,4,1,0,4,3,1,11,1,0,2,2,0,0,0
+PacificRegional,Playoff,19,TR,3542,S.P.E.E.D,1,4,1,1,8,4,0,29,1,0,4,1,0,0,0
+PacificRegional,Qual,20,XZ,3542,S.P.E.E.D,1,0,2,0,9,7,3,17,0,0,5,4,0,0,0
+NEDistrict,Qual,21,AB,3542,S.P.E.E.D,2,0,3,1,2,8,3,14,0,1,1,1,1,0,1
+LoneStarRegional,Playoff,22,LS,3542,S.P.E.E.D,1,4,2,0,9,3,1,11,1,0,4,3,1,0,1
+NEDistrict,Qual,23,MK,3542,S.P.E.E.D,3,1,0,1,1,3,2,1,1,1,4,5,1,0,0
+MidwestRegional,Playoff,24,AB,3542,S.P.E.E.D,3,1,3,1,5,8,1,28,1,1,2,3,1,0,1
+NEDistrict,Playoff,25,JD,3542,S.P.E.E.D,2,2,1,1,6,5,4,14,0,1,2,4,0,0,0
+PacificRegional,Qual,26,KP,3542,S.P.E.E.D,3,0,3,0,6,5,4,9,1,0,3,3,0,0,0
+LoneStarRegional,Playoff,27,AB,3542,S.P.E.E.D,3,2,2,1,7,2,3,30,1,0,2,4,1,0,0
+PacificRegional,Qual,28,KP,3542,S.P.E.E.D,1,0,1,1,3,3,4,14,0,0,5,4,1,0,0
+NEDistrict,Qual,29,MK,3542,S.P.E.E.D,2,2,3,1,8,6,2,6,0,0,2,3,0,0,1
+MidwestRegional,Playoff,30,JD,3542,S.P.E.E.D,3,3,2,1,6,2,0,28,1,0,1,1,1,0,0
+PacificRegional,Qual,31,JD,3542,S.P.E.E.D,1,0,1,0,1,8,1,20,1,0,1,3,0,0,0
+NEDistrict,Qual,32,XZ,3542,S.P.E.E.D,1,2,3,0,9,4,4,10,0,0,1,4,0,0,0
+PacificRegional,Playoff,33,KP,3542,S.P.E.E.D,2,1,3,0,2,5,4,16,0,0,5,2,1,0,1
+LoneStarRegional,Qual,1,TR,3568,RoboEagles,3,4,3,0,9,4,3,11,0,1,4,3,0,0,2
+NEDistrict,Qual,2,TR,3568,RoboEagles,2,2,3,0,6,4,0,25,1,1,4,4,0,0,0
+PacificRegional,Playoff,3,XZ,3568,RoboEagles,1,4,2,1,4,7,4,0,0,0,5,4,0,0,0
+MidwestRegional,Playoff,4,TR,3568,RoboEagles,1,0,0,0,9,3,0,27,1,0,2,1,0,0,0
+MidwestRegional,Playoff,5,TR,3568,RoboEagles,2,1,0,1,9,4,4,14,1,0,3,1,1,0,0
+PacificRegional,Playoff,6,JD,3568,RoboEagles,3,1,0,0,6,0,2,27,1,1,4,4,0,0,0
+LoneStarRegional,Qual,7,LS,3568,RoboEagles,2,2,0,1,4,9,3,18,0,1,2,5,1,0,0
+MidwestRegional,Qual,8,AB,3568,RoboEagles,2,0,3,0,5,3,4,23,0,0,3,4,0,0,1
+LoneStarRegional,Playoff,9,AB,3568,RoboEagles,2,2,0,1,7,2,2,10,0,1,4,2,1,0,0
+MidwestRegional,Playoff,10,KP,3568,RoboEagles,3,1,1,1,7,3,4,14,0,1,2,5,0,0,0
+NEDistrict,Playoff,11,JD,3568,RoboEagles,2,4,4,1,4,8,3,1,1,1,5,5,1,0,0
+MidwestRegional,Playoff,12,TR,3568,RoboEagles,1,0,3,0,4,3,3,5,0,1,2,2,0,0,1
+MidwestRegional,Playoff,13,KP,3568,RoboEagles,1,4,2,1,5,2,4,21,0,0,3,1,0,0,0
+PacificRegional,Playoff,14,JD,3568,RoboEagles,3,1,0,0,5,6,2,16,0,1,1,4,0,0,0
+NEDistrict,Playoff,15,AB,3568,RoboEagles,1,4,2,0,4,4,4,1,0,0,5,5,1,0,0
+PacificRegional,Playoff,16,TR,3568,RoboEagles,3,0,0,0,1,7,0,3,1,0,2,4,0,0,0
+MidwestRegional,Playoff,17,XZ,3568,RoboEagles,3,3,3,0,5,6,3,21,0,1,2,3,1,0,0
+MidwestRegional,Qual,18,XZ,3568,RoboEagles,2,0,2,0,1,8,2,27,0,1,4,4,1,0,0
+LoneStarRegional,Playoff,19,LS,3568,RoboEagles,2,2,0,0,5,4,2,23,1,1,1,3,1,0,1
+PacificRegional,Playoff,20,AB,3568,RoboEagles,3,0,3,0,4,9,2,25,0,0,1,5,0,1,0
+MidwestRegional,Qual,21,MK,3568,RoboEagles,3,0,0,1,3,0,3,19,1,0,4,3,0,0,0
+PacificRegional,Qual,22,MK,3568,RoboEagles,2,1,1,1,5,3,0,23,1,0,4,4,1,0,0
+MidwestRegional,Qual,23,LS,3568,RoboEagles,1,2,1,1,2,4,4,10,0,1,5,3,0,0,2
+LoneStarRegional,Qual,24,AB,3568,RoboEagles,2,4,1,0,9,5,3,12,1,1,1,5,1,0,0
+NEDistrict,Qual,25,TR,3568,RoboEagles,1,2,3,1,4,7,4,30,1,1,1,3,0,0,0
+PacificRegional,Qual,26,XZ,3568,RoboEagles,2,4,0,1,5,6,0,0,0,0,4,4,0,0,1
+PacificRegional,Playoff,27,JD,3568,RoboEagles,2,2,1,0,4,1,3,30,1,1,1,4,1,0,0
+MidwestRegional,Qual,28,TR,3568,RoboEagles,1,3,2,0,3,2,2,5,1,0,4,2,0,0,0
+MidwestRegional,Playoff,29,KP,3568,RoboEagles,1,1,1,0,6,2,2,8,0,1,5,5,1,0,0
+PacificRegional,Qual,30,MK,3568,RoboEagles,3,2,4,1,2,6,0,4,0,1,4,3,1,0,0
+PacificRegional,Playoff,31,XZ,3568,RoboEagles,1,0,0,1,4,0,0,26,1,0,3,4,1,0,0
+NEDistrict,Qual,32,MK,3568,RoboEagles,1,1,2,0,4,9,3,17,1,0,4,1,0,0,1
+MidwestRegional,Qual,33,LS,3568,RoboEagles,2,0,1,0,3,5,1,8,1,0,2,1,1,0,1
+MidwestRegional,Playoff,1,MK,3604,Goon Squad,2,0,0,1,2,8,1,27,0,0,2,5,1,0,0
+LoneStarRegional,Playoff,2,AB,3604,Goon Squad,2,2,4,1,7,9,1,15,0,0,2,2,1,0,0
+MidwestRegional,Qual,3,AB,3604,Goon Squad,1,1,1,0,6,2,4,7,0,1,2,2,0,0,1
+NEDistrict,Playoff,4,JD,3604,Goon Squad,1,0,2,1,7,7,4,27,1,0,5,3,1,0,0
+MidwestRegional,Playoff,5,AB,3604,Goon Squad,1,4,4,1,9,7,3,2,0,1,4,2,1,0,1
+NEDistrict,Qual,6,JD,3604,Goon Squad,1,3,0,0,8,5,2,14,0,1,1,3,0,0,1
+LoneStarRegional,Playoff,7,TR,3604,Goon Squad,1,3,1,1,4,9,3,6,0,1,5,5,0,0,0
+NEDistrict,Playoff,8,TR,3604,Goon Squad,3,4,1,0,9,7,3,28,1,1,4,4,0,0,0
+PacificRegional,Qual,9,TR,3604,Goon Squad,2,0,4,1,4,4,1,20,1,1,2,3,1,0,0
+NEDistrict,Qual,10,LS,3604,Goon Squad,3,0,2,1,7,4,1,9,1,0,2,5,1,0,0
+PacificRegional,Qual,11,JD,3604,Goon Squad,2,2,1,1,2,9,1,28,1,1,5,2,0,0,0
+NEDistrict,Qual,12,MK,3604,Goon Squad,1,1,0,0,3,7,3,20,1,0,1,1,1,0,0
+PacificRegional,Playoff,13,JD,3604,Goon Squad,2,4,1,0,9,8,2,9,0,0,5,3,0,0,0
+LoneStarRegional,Playoff,14,KP,3604,Goon Squad,2,3,0,1,3,9,1,7,1,1,3,3,0,0,0
+LoneStarRegional,Qual,15,TR,3604,Goon Squad,3,0,1,1,0,9,0,22,1,1,3,5,0,0,0
+LoneStarRegional,Playoff,16,TR,3604,Goon Squad,1,3,3,1,8,3,0,7,0,1,4,2,1,0,0
+NEDistrict,Playoff,17,MK,3604,Goon Squad,1,0,4,1,7,6,0,12,0,0,4,1,1,0,0
+PacificRegional,Playoff,18,TR,3604,Goon Squad,2,3,1,1,6,3,2,23,1,1,5,5,1,0,0
+LoneStarRegional,Qual,19,KP,3604,Goon Squad,2,2,0,0,3,3,2,4,1,0,5,1,1,0,0
+MidwestRegional,Qual,20,XZ,3604,Goon Squad,1,1,3,0,6,3,4,30,1,0,1,4,0,0,0
+MidwestRegional,Qual,21,MK,3604,Goon Squad,3,3,4,1,9,4,2,9,0,0,2,3,1,0,0
+MidwestRegional,Qual,22,XZ,3604,Goon Squad,2,3,0,1,8,6,0,0,0,0,2,1,0,0,1
+NEDistrict,Qual,23,TR,3604,Goon Squad,3,4,3,1,5,9,1,10,1,1,2,1,1,0,0
+NEDistrict,Playoff,24,TR,3604,Goon Squad,3,0,3,0,3,6,2,4,1,0,1,4,0,0,1
+MidwestRegional,Playoff,25,AB,3604,Goon Squad,1,1,3,0,9,8,4,0,1,1,4,1,1,0,1
+NEDistrict,Playoff,26,KP,3604,Goon Squad,2,3,3,0,3,8,4,5,1,0,5,1,0,0,0
+PacificRegional,Qual,27,AB,3604,Goon Squad,3,1,1,0,2,6,4,20,1,0,4,5,1,0,2
+MidwestRegional,Playoff,28,TR,3604,Goon Squad,1,1,4,0,7,8,1,14,1,1,5,4,1,0,1
+MidwestRegional,Qual,29,MK,3604,Goon Squad,2,4,0,0,7,7,1,15,0,0,3,5,1,0,0
+LoneStarRegional,Playoff,30,TR,3604,Goon Squad,3,1,1,0,6,5,2,20,0,0,2,4,1,0,0
+LoneStarRegional,Qual,31,KP,3604,Goon Squad,1,2,4,0,5,7,0,20,0,0,5,2,0,1,0
+MidwestRegional,Playoff,32,XZ,3604,Goon Squad,3,2,0,0,2,8,2,30,0,0,5,1,1,0,0
+MidwestRegional,Qual,33,TR,3604,Goon Squad,3,2,4,1,5,8,1,20,0,1,5,3,1,0,0
+NEDistrict,Playoff,1,JD,3619,Blackhawks,2,2,1,0,6,2,2,13,1,0,2,3,1,0,0
+NEDistrict,Playoff,2,LS,3619,Blackhawks,2,3,4,1,5,9,1,17,1,0,5,3,0,0,0
+PacificRegional,Playoff,3,TR,3619,Blackhawks,2,4,3,1,5,3,3,14,1,1,4,3,0,0,0
+LoneStarRegional,Playoff,4,KP,3619,Blackhawks,2,1,1,1,2,5,3,2,1,1,1,3,0,0,0
+MidwestRegional,Qual,5,JD,3619,Blackhawks,3,3,2,0,5,9,0,3,1,0,3,5,1,0,2
+LoneStarRegional,Qual,6,MK,3619,Blackhawks,3,4,1,1,8,2,3,10,0,0,2,3,1,0,1
+PacificRegional,Qual,7,AB,3619,Blackhawks,1,1,2,1,1,2,1,26,0,1,3,1,1,0,0
+NEDistrict,Qual,8,MK,3619,Blackhawks,1,0,2,0,2,8,4,2,1,1,2,1,1,0,0
+NEDistrict,Qual,9,LS,3619,Blackhawks,3,3,4,0,8,7,0,23,1,0,2,3,0,0,0
+LoneStarRegional,Qual,10,XZ,3619,Blackhawks,3,3,4,1,6,5,2,19,0,1,3,5,1,0,0
+NEDistrict,Playoff,11,MK,3619,Blackhawks,3,0,3,1,8,5,3,23,1,1,1,5,1,1,0
+PacificRegional,Playoff,12,MK,3619,Blackhawks,3,2,3,0,2,4,2,28,1,1,1,5,1,0,0
+PacificRegional,Qual,13,JD,3619,Blackhawks,3,0,0,1,0,3,2,27,0,1,1,3,1,0,0
+NEDistrict,Qual,14,XZ,3619,Blackhawks,1,2,1,0,8,9,0,1,0,1,4,2,1,0,2
+PacificRegional,Qual,15,LS,3619,Blackhawks,3,2,1,0,9,3,2,17,1,1,4,5,0,0,0
+PacificRegional,Playoff,16,LS,3619,Blackhawks,3,2,1,1,8,4,0,12,0,0,1,5,0,0,0
+PacificRegional,Playoff,17,TR,3619,Blackhawks,3,3,1,1,5,2,0,3,0,0,5,2,0,0,0
+LoneStarRegional,Qual,18,AB,3619,Blackhawks,1,0,4,0,7,8,3,29,1,0,5,4,0,0,0
+PacificRegional,Qual,19,KP,3619,Blackhawks,1,3,1,1,6,5,2,3,0,0,5,5,0,0,0
+LoneStarRegional,Qual,20,TR,3619,Blackhawks,1,1,1,0,3,7,4,27,1,1,1,1,0,0,0
+PacificRegional,Playoff,21,KP,3619,Blackhawks,3,1,3,0,3,8,1,19,1,1,3,2,0,0,0
+PacificRegional,Qual,22,MK,3619,Blackhawks,3,2,3,0,3,5,0,29,1,0,4,3,0,0,0
+LoneStarRegional,Playoff,23,KP,3619,Blackhawks,2,4,1,0,8,5,1,19,1,1,5,3,1,1,0
+MidwestRegional,Qual,24,XZ,3619,Blackhawks,1,1,1,1,7,7,2,8,0,1,3,1,1,0,2
+PacificRegional,Playoff,25,MK,3619,Blackhawks,1,4,4,0,4,7,1,17,0,1,3,1,0,1,0
+NEDistrict,Playoff,26,LS,3619,Blackhawks,1,2,1,0,2,1,4,21,1,1,1,5,0,0,0
+NEDistrict,Qual,27,JD,3619,Blackhawks,3,2,0,1,4,6,0,11,1,1,5,2,0,0,0
+NEDistrict,Playoff,28,AB,3619,Blackhawks,2,2,1,1,4,4,2,23,0,0,3,5,1,0,0
+MidwestRegional,Playoff,29,MK,3619,Blackhawks,2,4,1,0,8,7,1,0,0,1,4,3,1,0,0
+PacificRegional,Qual,30,LS,3619,Blackhawks,2,1,3,0,3,4,0,27,1,1,2,4,0,0,0
+LoneStarRegional,Playoff,31,XZ,3619,Blackhawks,3,0,3,1,1,9,4,2,0,1,4,3,1,0,0
+PacificRegional,Qual,32,LS,3619,Blackhawks,1,2,1,1,9,3,1,0,0,0,4,5,1,0,0
+MidwestRegional,Qual,33,AB,3619,Blackhawks,1,1,1,1,9,3,1,0,1,0,5,4,1,0,0
+LoneStarRegional,Playoff,1,JD,3773,Arrowhead Robotics,1,3,2,1,9,7,0,14,0,1,5,1,0,0,0
+PacificRegional,Playoff,2,JD,3773,Arrowhead Robotics,3,1,0,1,2,1,2,6,1,1,3,5,1,0,0
+MidwestRegional,Playoff,3,MK,3773,Arrowhead Robotics,1,1,4,1,6,9,1,15,0,1,3,5,0,0,0
+PacificRegional,Qual,4,JD,3773,Arrowhead Robotics,3,4,4,0,6,7,3,19,0,0,2,5,1,0,0
+PacificRegional,Qual,5,XZ,3773,Arrowhead Robotics,2,3,0,0,4,9,3,21,0,0,5,3,1,0,0
+PacificRegional,Qual,6,MK,3773,Arrowhead Robotics,1,0,1,0,6,3,0,20,0,0,2,5,1,0,0
+NEDistrict,Playoff,7,TR,3773,Arrowhead Robotics,2,2,1,0,3,5,3,19,1,1,1,1,0,0,0
+PacificRegional,Qual,8,LS,3773,Arrowhead Robotics,3,1,2,0,3,3,3,0,1,1,3,2,0,0,0
+PacificRegional,Qual,9,LS,3773,Arrowhead Robotics,3,3,4,1,7,5,3,23,0,1,1,4,1,0,0
+NEDistrict,Qual,10,XZ,3773,Arrowhead Robotics,1,4,4,0,6,5,4,12,0,1,4,1,1,0,0
+LoneStarRegional,Playoff,11,AB,3773,Arrowhead Robotics,3,2,0,0,5,4,4,14,0,1,3,3,0,0,0
+MidwestRegional,Qual,12,AB,3773,Arrowhead Robotics,3,1,1,0,2,8,1,17,1,1,5,2,0,0,1
+PacificRegional,Playoff,13,KP,3773,Arrowhead Robotics,2,0,4,1,7,7,3,1,1,0,4,1,0,0,0
+NEDistrict,Playoff,14,JD,3773,Arrowhead Robotics,1,3,2,1,3,8,2,16,1,0,3,4,1,0,0
+MidwestRegional,Playoff,15,TR,3773,Arrowhead Robotics,1,1,1,1,2,9,3,16,1,1,5,3,0,0,1
+LoneStarRegional,Qual,16,XZ,3773,Arrowhead Robotics,2,2,3,1,8,6,4,23,1,0,1,2,0,0,0
+LoneStarRegional,Qual,17,LS,3773,Arrowhead Robotics,3,3,1,1,8,3,3,7,1,0,2,3,1,0,0
+MidwestRegional,Qual,18,KP,3773,Arrowhead Robotics,3,3,4,0,3,9,3,10,0,1,1,1,1,0,0
+MidwestRegional,Playoff,19,KP,3773,Arrowhead Robotics,1,2,0,0,4,7,4,2,0,1,1,2,1,0,0
+PacificRegional,Qual,20,AB,3773,Arrowhead Robotics,2,3,1,0,9,1,0,8,0,0,1,2,0,0,1
+NEDistrict,Playoff,21,KP,3773,Arrowhead Robotics,2,0,4,1,0,7,4,7,1,0,2,1,1,0,0
+NEDistrict,Playoff,22,JD,3773,Arrowhead Robotics,2,2,0,0,9,2,0,6,1,1,3,5,1,0,1
+LoneStarRegional,Playoff,23,JD,3773,Arrowhead Robotics,2,1,4,0,5,5,0,18,1,0,1,1,1,0,0
+LoneStarRegional,Qual,24,MK,3773,Arrowhead Robotics,2,4,1,0,6,8,4,4,0,1,2,4,1,0,0
+NEDistrict,Qual,25,LS,3773,Arrowhead Robotics,1,4,1,0,4,7,0,25,1,0,4,4,1,0,0
+PacificRegional,Qual,26,TR,3773,Arrowhead Robotics,2,3,1,0,6,3,3,25,1,1,5,3,0,0,0
+LoneStarRegional,Qual,27,MK,3773,Arrowhead Robotics,2,1,2,0,4,8,4,30,0,1,5,3,0,0,1
+NEDistrict,Playoff,28,KP,3773,Arrowhead Robotics,2,3,2,0,3,6,2,29,0,0,2,2,1,0,0
+PacificRegional,Qual,29,AB,3773,Arrowhead Robotics,1,4,3,1,4,3,0,5,1,0,5,4,1,0,2
+LoneStarRegional,Playoff,30,KP,3773,Arrowhead Robotics,3,1,2,1,5,3,3,7,0,0,2,5,0,0,0
+LoneStarRegional,Qual,31,TR,3773,Arrowhead Robotics,1,4,4,0,6,5,1,25,1,1,3,1,1,0,0
+MidwestRegional,Qual,32,MK,3773,Arrowhead Robotics,3,3,1,0,4,6,2,22,1,1,1,1,0,0,0
+NEDistrict,Playoff,33,AB,3773,Arrowhead Robotics,3,4,0,1,6,1,1,2,0,1,4,3,0,0,2
+NEDistrict,Qual,1,XZ,4395,Dundee Vi-Borgs,3,1,3,1,4,6,1,20,1,0,2,2,1,0,0
+PacificRegional,Playoff,2,AB,4395,Dundee Vi-Borgs,3,0,3,0,1,9,3,28,0,1,4,4,1,0,1
+LoneStarRegional,Playoff,3,TR,4395,Dundee Vi-Borgs,1,3,0,1,9,4,1,25,1,1,4,2,1,0,0
+MidwestRegional,Playoff,4,LS,4395,Dundee Vi-Borgs,1,2,4,0,8,5,3,22,0,1,4,4,1,1,0
+LoneStarRegional,Playoff,5,TR,4395,Dundee Vi-Borgs,2,4,4,0,8,9,1,6,1,1,5,2,0,0,1
+NEDistrict,Qual,6,AB,4395,Dundee Vi-Borgs,2,0,2,0,4,7,1,7,1,0,2,5,1,0,0
+PacificRegional,Playoff,7,JD,4395,Dundee Vi-Borgs,1,0,2,0,4,6,4,0,0,0,1,3,1,0,0
+MidwestRegional,Qual,8,KP,4395,Dundee Vi-Borgs,3,2,3,0,8,4,0,0,0,0,1,3,0,0,0
+NEDistrict,Qual,9,JD,4395,Dundee Vi-Borgs,2,1,4,0,5,7,1,28,0,0,3,1,0,0,0
+NEDistrict,Playoff,10,AB,4395,Dundee Vi-Borgs,2,3,3,0,5,7,0,23,1,1,2,1,0,0,0
+LoneStarRegional,Playoff,11,AB,4395,Dundee Vi-Borgs,3,2,0,0,3,0,1,3,1,1,2,3,1,0,0
+PacificRegional,Playoff,12,KP,4395,Dundee Vi-Borgs,1,1,1,0,6,9,4,4,1,1,4,2,1,0,0
+MidwestRegional,Qual,13,LS,4395,Dundee Vi-Borgs,2,1,4,0,9,5,2,0,1,1,2,5,1,0,0
+MidwestRegional,Qual,14,MK,4395,Dundee Vi-Borgs,3,1,1,1,8,6,2,19,1,1,3,5,1,0,0
+PacificRegional,Qual,15,XZ,4395,Dundee Vi-Borgs,3,0,4,1,2,5,2,11,1,0,5,5,1,0,0
+LoneStarRegional,Playoff,16,TR,4395,Dundee Vi-Borgs,2,4,2,0,4,7,1,28,0,0,2,2,0,0,1
+LoneStarRegional,Playoff,17,AB,4395,Dundee Vi-Borgs,2,0,3,1,7,5,3,14,1,1,1,3,0,0,1
+LoneStarRegional,Qual,18,LS,4395,Dundee Vi-Borgs,2,0,4,1,1,9,4,22,1,0,3,4,0,0,0
+NEDistrict,Playoff,19,JD,4395,Dundee Vi-Borgs,2,1,4,0,1,9,1,4,0,1,2,4,0,0,2
+PacificRegional,Playoff,20,JD,4395,Dundee Vi-Borgs,3,1,1,1,5,1,3,10,1,1,1,5,0,0,2
+NEDistrict,Playoff,21,TR,4395,Dundee Vi-Borgs,2,2,0,0,9,9,2,21,1,1,1,5,1,0,0
+MidwestRegional,Qual,22,XZ,4395,Dundee Vi-Borgs,3,4,4,0,5,8,4,28,1,0,3,5,0,0,0
+PacificRegional,Playoff,23,KP,4395,Dundee Vi-Borgs,1,3,0,1,4,3,0,24,0,1,5,5,1,0,0
+LoneStarRegional,Qual,24,XZ,4395,Dundee Vi-Borgs,3,4,0,1,6,6,3,0,1,0,1,1,1,0,1
+LoneStarRegional,Qual,25,JD,4395,Dundee Vi-Borgs,2,4,3,1,8,6,1,17,0,0,1,1,0,1,0
+LoneStarRegional,Playoff,26,MK,4395,Dundee Vi-Borgs,1,0,1,1,2,1,3,22,0,0,5,1,0,0,0
+NEDistrict,Qual,27,AB,4395,Dundee Vi-Borgs,1,2,1,1,6,5,3,13,0,1,3,4,0,0,2
+MidwestRegional,Qual,28,AB,4395,Dundee Vi-Borgs,3,1,0,0,1,6,4,1,1,1,2,2,0,0,0
+LoneStarRegional,Qual,29,JD,4395,Dundee Vi-Borgs,1,2,4,1,8,5,4,20,1,0,2,2,0,0,0
+NEDistrict,Qual,30,AB,4395,Dundee Vi-Borgs,3,0,1,1,9,7,3,16,1,1,1,5,1,0,0
+LoneStarRegional,Qual,31,JD,4395,Dundee Vi-Borgs,2,2,1,0,4,1,2,8,0,0,3,4,1,0,1
+MidwestRegional,Playoff,32,TR,4395,Dundee Vi-Borgs,3,3,3,0,5,8,4,16,0,1,1,4,1,0,0
+LoneStarRegional,Playoff,33,TR,4395,Dundee Vi-Borgs,1,4,3,0,4,9,1,18,1,1,4,5,0,0,0
+LoneStarRegional,Playoff,1,MK,5046,Jacked Up Jackets,2,4,0,1,8,7,1,29,1,0,5,1,1,0,1
+NEDistrict,Qual,2,XZ,5046,Jacked Up Jackets,2,1,3,1,6,7,1,29,1,0,1,5,1,0,0
+PacificRegional,Playoff,3,MK,5046,Jacked Up Jackets,1,1,1,0,2,4,2,8,0,1,2,2,1,0,1
+MidwestRegional,Playoff,4,LS,5046,Jacked Up Jackets,2,1,3,0,1,3,0,11,1,0,5,2,1,0,0
+NEDistrict,Playoff,5,JD,5046,Jacked Up Jackets,3,4,3,1,6,3,1,29,1,1,5,3,1,0,1
+PacificRegional,Playoff,6,TR,5046,Jacked Up Jackets,1,1,3,0,3,4,1,21,1,1,1,2,1,0,0
+PacificRegional,Playoff,7,KP,5046,Jacked Up Jackets,3,2,3,0,4,5,1,5,1,1,1,3,0,0,1
+MidwestRegional,Qual,8,AB,5046,Jacked Up Jackets,3,2,3,0,5,5,0,1,1,1,2,3,0,0,1
+PacificRegional,Qual,9,KP,5046,Jacked Up Jackets,2,0,3,0,8,8,1,23,0,1,2,4,0,0,0
+LoneStarRegional,Playoff,10,AB,5046,Jacked Up Jackets,2,1,1,0,9,8,3,24,1,1,2,4,1,0,1
+NEDistrict,Playoff,11,KP,5046,Jacked Up Jackets,1,0,0,0,8,8,3,10,0,1,2,2,0,0,0
+PacificRegional,Playoff,12,KP,5046,Jacked Up Jackets,1,1,4,0,1,9,0,5,0,1,1,5,0,0,0
+PacificRegional,Playoff,13,MK,5046,Jacked Up Jackets,2,2,0,1,8,1,2,14,0,1,5,5,0,0,0
+LoneStarRegional,Playoff,14,KP,5046,Jacked Up Jackets,1,4,4,1,9,9,2,9,0,1,4,1,0,0,0
+MidwestRegional,Qual,15,MK,5046,Jacked Up Jackets,1,0,2,1,7,9,3,2,1,0,3,4,1,0,0
+MidwestRegional,Qual,16,JD,5046,Jacked Up Jackets,1,2,3,1,2,3,2,9,1,0,1,2,0,0,0
+MidwestRegional,Playoff,17,JD,5046,Jacked Up Jackets,1,1,1,1,1,3,4,0,1,0,3,2,1,0,0
+LoneStarRegional,Playoff,18,AB,5046,Jacked Up Jackets,1,1,3,0,7,7,0,10,0,0,5,3,1,0,0
+MidwestRegional,Qual,19,LS,5046,Jacked Up Jackets,3,1,3,1,4,9,2,7,1,1,5,5,1,0,0
+LoneStarRegional,Playoff,20,LS,5046,Jacked Up Jackets,1,3,4,1,9,4,0,0,0,1,1,5,0,0,0
+LoneStarRegional,Playoff,21,TR,5046,Jacked Up Jackets,3,1,4,1,6,5,2,2,0,1,4,2,1,0,0
+NEDistrict,Playoff,22,XZ,5046,Jacked Up Jackets,2,3,0,1,4,4,2,1,0,1,5,2,1,0,0
+NEDistrict,Qual,23,MK,5046,Jacked Up Jackets,2,3,2,0,8,9,1,7,1,1,3,1,1,0,0
+MidwestRegional,Qual,24,JD,5046,Jacked Up Jackets,1,3,2,1,9,7,1,23,1,0,3,5,0,0,0
+NEDistrict,Playoff,25,AB,5046,Jacked Up Jackets,2,3,4,1,5,8,3,14,1,1,4,5,1,0,0
+LoneStarRegional,Playoff,26,KP,5046,Jacked Up Jackets,2,0,0,1,7,7,4,28,1,1,4,4,0,0,0
+PacificRegional,Qual,27,MK,5046,Jacked Up Jackets,3,1,0,0,4,5,2,4,0,0,2,5,0,0,0
+NEDistrict,Qual,28,AB,5046,Jacked Up Jackets,1,3,0,1,7,6,3,16,1,0,2,1,1,1,0
+MidwestRegional,Playoff,29,JD,5046,Jacked Up Jackets,3,3,0,0,5,7,1,3,0,1,2,1,0,0,0
+PacificRegional,Playoff,30,TR,5046,Jacked Up Jackets,3,3,1,1,4,2,1,29,0,0,1,5,1,0,2
+NEDistrict,Playoff,31,LS,5046,Jacked Up Jackets,2,2,4,0,3,5,0,13,0,1,1,1,0,0,0
+NEDistrict,Qual,32,AB,5046,Jacked Up Jackets,1,4,1,1,4,6,1,24,0,0,1,4,0,0,0
+PacificRegional,Playoff,33,MK,5046,Jacked Up Jackets,1,4,4,1,9,8,4,5,0,1,3,3,1,0,0
+NEDistrict,Playoff,1,JD,5066,Singularity,1,2,1,0,5,2,3,22,1,0,2,3,0,0,0
+PacificRegional,Qual,2,TR,5066,Singularity,3,0,1,0,0,8,0,19,1,1,4,2,0,0,0
+PacificRegional,Playoff,3,MK,5066,Singularity,2,4,1,0,6,7,1,23,0,1,4,1,1,0,0
+MidwestRegional,Playoff,4,AB,5066,Singularity,2,0,3,0,9,7,0,5,0,0,1,2,0,0,0
+NEDistrict,Qual,5,XZ,5066,Singularity,1,4,4,0,4,4,4,4,0,1,1,3,0,0,0
+PacificRegional,Playoff,6,AB,5066,Singularity,3,0,0,0,4,8,0,4,1,1,1,2,0,0,0
+MidwestRegional,Playoff,7,AB,5066,Singularity,2,1,3,0,1,7,4,25,0,1,2,3,1,0,0
+MidwestRegional,Qual,8,XZ,5066,Singularity,1,3,3,1,8,7,3,3,0,0,1,4,0,0,0
+PacificRegional,Qual,9,AB,5066,Singularity,2,1,2,0,7,2,3,8,1,1,4,5,1,0,0
+NEDistrict,Playoff,10,JD,5066,Singularity,2,0,2,0,4,7,4,12,1,1,1,1,1,0,1
+PacificRegional,Playoff,11,KP,5066,Singularity,3,2,2,0,8,9,4,23,1,0,4,2,1,0,0
+NEDistrict,Qual,12,XZ,5066,Singularity,3,2,2,1,7,6,2,28,0,0,3,3,1,0,2
+LoneStarRegional,Qual,13,KP,5066,Singularity,3,0,0,1,4,2,0,6,0,0,4,4,0,0,1
+MidwestRegional,Playoff,14,AB,5066,Singularity,1,2,4,0,9,6,2,3,1,0,3,1,0,0,0
+PacificRegional,Playoff,15,XZ,5066,Singularity,1,2,0,1,6,3,3,15,0,0,3,2,1,0,0
+NEDistrict,Qual,16,XZ,5066,Singularity,1,4,2,1,5,8,3,17,0,1,3,1,1,0,0
+PacificRegional,Qual,17,TR,5066,Singularity,3,4,3,0,6,3,1,4,1,0,1,4,0,0,2
+LoneStarRegional,Qual,18,LS,5066,Singularity,1,2,0,0,7,2,3,16,1,0,3,3,0,0,0
+PacificRegional,Qual,19,AB,5066,Singularity,1,2,3,0,6,6,1,0,0,0,1,1,0,1,0
+NEDistrict,Playoff,20,MK,5066,Singularity,1,2,1,1,9,1,3,9,0,1,3,4,0,0,0
+MidwestRegional,Playoff,21,LS,5066,Singularity,3,0,1,0,5,6,3,2,0,1,3,5,1,0,0
+MidwestRegional,Playoff,22,MK,5066,Singularity,3,3,4,1,9,4,2,25,0,0,4,4,0,0,0
+NEDistrict,Qual,23,TR,5066,Singularity,1,0,0,1,1,7,3,2,0,1,5,5,1,1,0
+MidwestRegional,Qual,24,KP,5066,Singularity,1,0,1,0,6,3,0,30,0,0,5,3,0,0,0
+LoneStarRegional,Playoff,25,JD,5066,Singularity,1,0,0,0,7,8,0,26,0,0,5,5,1,0,2
+NEDistrict,Playoff,26,XZ,5066,Singularity,3,0,1,1,7,3,0,5,0,1,1,2,1,0,0
+NEDistrict,Qual,27,AB,5066,Singularity,1,2,0,0,2,0,2,15,0,0,4,1,1,0,0
+NEDistrict,Playoff,28,XZ,5066,Singularity,1,1,3,0,3,9,2,13,1,0,4,4,0,0,2
+NEDistrict,Playoff,29,KP,5066,Singularity,1,3,0,0,7,1,2,20,1,0,5,2,0,1,0
+LoneStarRegional,Qual,30,LS,5066,Singularity,1,2,4,1,2,7,2,5,1,0,2,5,1,0,0
+MidwestRegional,Playoff,31,MK,5066,Singularity,3,4,4,0,4,7,4,23,0,1,5,3,0,0,0
+LoneStarRegional,Qual,32,AB,5066,Singularity,1,1,4,0,7,9,3,10,0,1,4,4,0,0,0
+LoneStarRegional,Playoff,33,JD,5066,Singularity,3,2,4,0,9,7,1,13,1,1,3,3,0,0,0
+MidwestRegional,Qual,1,KP,5067,Steiner Steel Storm,3,2,4,0,4,5,4,7,1,1,2,2,1,0,0
+NEDistrict,Qual,2,JD,5067,Steiner Steel Storm,3,4,3,0,6,6,1,0,0,0,3,3,0,0,0
+MidwestRegional,Playoff,3,TR,5067,Steiner Steel Storm,2,3,2,0,4,4,4,22,1,1,1,2,0,0,0
+NEDistrict,Playoff,4,LS,5067,Steiner Steel Storm,3,1,4,1,4,5,1,13,0,1,5,4,1,0,0
+PacificRegional,Playoff,5,MK,5067,Steiner Steel Storm,1,3,2,0,5,3,2,30,0,1,5,1,1,0,0
+MidwestRegional,Playoff,6,JD,5067,Steiner Steel Storm,1,2,1,1,8,4,3,21,0,1,4,1,1,0,0
+NEDistrict,Playoff,7,LS,5067,Steiner Steel Storm,1,0,0,1,4,6,4,9,0,0,5,3,0,0,0
+NEDistrict,Playoff,8,KP,5067,Steiner Steel Storm,2,2,0,0,5,7,4,23,1,1,2,2,1,0,0
+LoneStarRegional,Qual,9,LS,5067,Steiner Steel Storm,1,0,0,0,6,7,1,23,0,1,4,3,0,0,0
+LoneStarRegional,Playoff,10,AB,5067,Steiner Steel Storm,3,2,0,0,7,8,2,25,1,0,5,2,0,0,0
+NEDistrict,Qual,11,AB,5067,Steiner Steel Storm,3,0,4,0,1,8,4,3,1,1,3,2,0,0,0
+PacificRegional,Playoff,12,MK,5067,Steiner Steel Storm,1,0,3,1,9,5,3,2,0,1,5,5,0,0,0
+PacificRegional,Qual,13,JD,5067,Steiner Steel Storm,1,1,0,1,5,4,0,26,0,0,4,4,1,0,0
+NEDistrict,Playoff,14,AB,5067,Steiner Steel Storm,1,3,1,0,6,4,2,5,1,0,5,4,1,0,0
+NEDistrict,Qual,15,TR,5067,Steiner Steel Storm,3,0,4,1,4,5,2,5,0,0,5,4,0,0,0
+NEDistrict,Qual,16,MK,5067,Steiner Steel Storm,3,3,1,0,6,4,0,26,1,0,2,3,1,0,0
+LoneStarRegional,Qual,17,LS,5067,Steiner Steel Storm,2,1,3,0,5,3,3,17,1,1,2,3,1,0,0
+NEDistrict,Playoff,18,LS,5067,Steiner Steel Storm,2,1,1,1,6,8,1,30,0,0,4,4,1,0,0
+PacificRegional,Qual,19,KP,5067,Steiner Steel Storm,2,1,0,0,2,2,3,6,0,1,1,5,0,0,0
+MidwestRegional,Playoff,20,TR,5067,Steiner Steel Storm,1,1,0,0,7,9,2,4,1,1,1,5,0,0,1
+MidwestRegional,Playoff,21,XZ,5067,Steiner Steel Storm,3,1,3,1,2,7,2,2,1,0,5,3,0,1,0
+LoneStarRegional,Playoff,22,MK,5067,Steiner Steel Storm,1,1,2,0,5,2,3,15,1,1,3,4,1,0,1
+LoneStarRegional,Playoff,23,LS,5067,Steiner Steel Storm,2,0,2,1,3,5,0,25,0,1,4,5,0,0,0
+NEDistrict,Playoff,24,LS,5067,Steiner Steel Storm,1,4,3,1,4,9,4,15,1,0,3,2,0,0,2
+MidwestRegional,Playoff,25,KP,5067,Steiner Steel Storm,2,3,3,1,8,7,1,3,0,0,2,5,0,0,0
+LoneStarRegional,Playoff,26,TR,5067,Steiner Steel Storm,2,0,1,0,5,6,1,15,0,1,2,1,1,0,2
+PacificRegional,Playoff,27,KP,5067,Steiner Steel Storm,1,0,3,0,8,7,0,24,1,0,1,1,0,0,0
+MidwestRegional,Playoff,28,MK,5067,Steiner Steel Storm,1,2,0,0,2,0,2,5,0,0,2,1,1,0,0
+PacificRegional,Playoff,29,JD,5067,Steiner Steel Storm,1,1,0,0,7,8,0,5,1,0,2,1,0,0,1
+LoneStarRegional,Qual,30,AB,5067,Steiner Steel Storm,1,4,4,1,6,5,4,16,1,1,5,5,0,0,0
+LoneStarRegional,Playoff,31,KP,5067,Steiner Steel Storm,3,2,0,0,6,3,3,10,1,0,2,4,0,0,0
+PacificRegional,Qual,32,XZ,5067,Steiner Steel Storm,3,2,0,0,8,4,4,14,1,0,2,3,0,0,0
+PacificRegional,Qual,33,AB,5067,Steiner Steel Storm,3,3,1,0,6,2,4,21,0,1,2,2,0,0,0
+PacificRegional,Playoff,1,LS,5144,LISD TECHnicians,3,2,3,0,4,4,1,21,0,1,5,3,1,0,0
+PacificRegional,Qual,2,MK,5144,LISD TECHnicians,1,3,2,1,6,8,1,13,1,0,2,2,1,0,1
+NEDistrict,Qual,3,AB,5144,LISD TECHnicians,2,2,3,1,2,5,0,16,0,1,3,4,0,0,0
+LoneStarRegional,Playoff,4,XZ,5144,LISD TECHnicians,1,3,0,1,6,5,1,20,0,1,3,2,0,0,0
+LoneStarRegional,Playoff,5,TR,5144,LISD TECHnicians,3,0,1,0,0,2,2,23,1,0,2,5,0,0,0
+MidwestRegional,Playoff,6,MK,5144,LISD TECHnicians,2,3,3,0,5,9,4,26,0,0,5,2,0,0,2
+MidwestRegional,Playoff,7,LS,5144,LISD TECHnicians,1,4,3,1,7,8,4,24,0,1,5,5,1,0,0
+NEDistrict,Qual,8,KP,5144,LISD TECHnicians,2,1,0,1,2,4,0,7,0,1,2,5,1,0,0
+MidwestRegional,Playoff,9,MK,5144,LISD TECHnicians,2,1,2,1,6,7,0,14,0,1,4,3,1,0,2
+MidwestRegional,Qual,10,AB,5144,LISD TECHnicians,2,1,3,1,2,9,2,30,1,1,5,4,0,0,0
+LoneStarRegional,Playoff,11,AB,5144,LISD TECHnicians,1,4,3,0,8,7,4,27,0,1,3,5,1,0,0
+LoneStarRegional,Qual,12,AB,5144,LISD TECHnicians,2,1,3,0,2,7,4,11,1,1,4,3,1,0,0
+NEDistrict,Playoff,13,TR,5144,LISD TECHnicians,2,0,3,0,4,9,0,13,0,1,4,5,0,0,0
+LoneStarRegional,Playoff,14,TR,5144,LISD TECHnicians,2,3,2,0,9,5,2,15,1,1,4,5,1,0,1
+PacificRegional,Playoff,15,LS,5144,LISD TECHnicians,3,0,4,0,2,4,1,7,1,0,5,4,1,0,0
+NEDistrict,Playoff,16,AB,5144,LISD TECHnicians,3,3,0,0,9,6,4,26,0,0,4,3,1,0,0
+NEDistrict,Playoff,17,JD,5144,LISD TECHnicians,3,3,2,0,3,3,4,27,1,1,3,1,0,0,0
+NEDistrict,Playoff,18,XZ,5144,LISD TECHnicians,3,3,4,0,9,8,3,6,1,1,5,2,0,0,2
+MidwestRegional,Qual,19,JD,5144,LISD TECHnicians,3,4,0,0,5,6,4,10,0,1,2,3,1,0,1
+MidwestRegional,Qual,20,XZ,5144,LISD TECHnicians,1,1,4,1,1,9,4,30,0,1,4,3,1,0,0
+MidwestRegional,Playoff,21,JD,5144,LISD TECHnicians,2,0,1,1,2,8,3,18,0,0,3,4,0,0,0
+PacificRegional,Qual,22,TR,5144,LISD TECHnicians,1,3,2,0,3,8,4,20,1,1,3,3,1,0,0
+LoneStarRegional,Playoff,23,MK,5144,LISD TECHnicians,2,4,4,0,9,4,0,25,1,1,5,4,1,0,0
+LoneStarRegional,Playoff,24,KP,5144,LISD TECHnicians,1,1,2,1,8,8,2,23,1,1,4,5,1,0,2
+LoneStarRegional,Qual,25,JD,5144,LISD TECHnicians,2,4,2,1,7,8,1,16,0,1,1,1,0,0,0
+NEDistrict,Playoff,26,XZ,5144,LISD TECHnicians,2,4,0,1,4,7,3,12,0,1,3,3,0,0,0
+PacificRegional,Qual,27,TR,5144,LISD TECHnicians,3,2,3,1,2,6,3,17,1,0,3,2,0,0,0
+NEDistrict,Qual,28,KP,5144,LISD TECHnicians,3,3,2,0,4,8,0,18,1,1,3,3,0,1,0
+LoneStarRegional,Playoff,29,TR,5144,LISD TECHnicians,3,1,0,0,9,9,4,11,1,1,3,5,1,0,0
+LoneStarRegional,Playoff,30,JD,5144,LISD TECHnicians,3,0,4,0,2,9,1,5,1,1,3,1,1,0,0
+MidwestRegional,Playoff,31,JD,5144,LISD TECHnicians,3,0,4,1,6,4,0,15,1,1,3,1,1,0,1
+MidwestRegional,Qual,32,LS,5144,LISD TECHnicians,1,0,0,0,5,3,4,3,0,0,2,3,0,0,0
+NEDistrict,Playoff,33,KP,5144,LISD TECHnicians,3,2,3,0,8,3,2,4,0,1,5,2,1,0,0
+LoneStarRegional,Qual,1,AB,5462,2PawR,1,1,4,0,4,5,3,1,1,1,2,4,0,0,0
+PacificRegional,Qual,2,XZ,5462,2PawR,3,2,1,0,7,2,2,4,0,1,2,5,1,0,0
+LoneStarRegional,Qual,3,AB,5462,2PawR,3,4,1,0,8,4,4,29,1,1,1,3,0,0,0
+NEDistrict,Qual,4,AB,5462,2PawR,3,4,3,1,5,5,3,30,0,1,5,3,1,1,0
+LoneStarRegional,Qual,5,KP,5462,2PawR,2,0,1,0,8,8,1,27,0,0,5,3,1,0,0
+NEDistrict,Playoff,6,XZ,5462,2PawR,1,0,3,0,1,7,4,25,1,0,2,1,0,0,0
+MidwestRegional,Playoff,7,XZ,5462,2PawR,2,1,1,0,6,9,2,10,0,1,2,5,0,0,0
+PacificRegional,Qual,8,AB,5462,2PawR,3,4,4,0,7,9,0,20,1,0,3,4,1,0,0
+PacificRegional,Playoff,9,TR,5462,2PawR,1,0,4,0,2,6,4,12,1,0,4,4,1,0,0
+MidwestRegional,Playoff,10,JD,5462,2PawR,2,2,4,0,6,4,4,10,1,0,2,2,1,0,0
+LoneStarRegional,Playoff,11,XZ,5462,2PawR,3,0,0,1,3,2,1,18,0,0,1,1,1,0,0
+MidwestRegional,Qual,12,JD,5462,2PawR,2,4,0,1,7,8,3,11,1,0,1,3,0,0,0
+LoneStarRegional,Qual,13,MK,5462,2PawR,1,2,1,0,7,5,1,18,0,1,3,2,1,0,0
+MidwestRegional,Playoff,14,MK,5462,2PawR,1,2,1,1,3,5,0,7,0,1,3,3,0,0,1
+PacificRegional,Qual,15,JD,5462,2PawR,1,0,2,1,1,3,0,29,0,0,3,3,0,0,2
+NEDistrict,Qual,16,MK,5462,2PawR,1,2,4,1,6,5,2,25,0,0,3,1,0,0,0
+LoneStarRegional,Playoff,17,TR,5462,2PawR,1,1,4,1,6,9,0,24,1,1,5,4,1,0,0
+LoneStarRegional,Playoff,18,XZ,5462,2PawR,3,1,3,1,9,6,2,10,1,1,3,2,1,0,1
+MidwestRegional,Playoff,19,LS,5462,2PawR,1,4,1,0,8,9,4,9,0,1,5,1,0,0,0
+PacificRegional,Playoff,20,LS,5462,2PawR,1,2,4,0,2,7,0,14,0,0,3,1,0,0,0
+PacificRegional,Playoff,21,XZ,5462,2PawR,3,2,2,1,8,2,2,29,0,0,2,4,1,0,0
+NEDistrict,Qual,22,AB,5462,2PawR,1,4,0,1,6,9,2,21,1,1,3,2,0,0,0
+LoneStarRegional,Playoff,23,JD,5462,2PawR,1,2,2,0,3,7,1,16,1,1,1,4,1,0,0
+LoneStarRegional,Qual,24,KP,5462,2PawR,1,0,2,0,4,6,2,19,1,1,4,4,1,0,0
+PacificRegional,Playoff,25,TR,5462,2PawR,3,3,1,1,6,1,4,29,0,0,3,2,0,0,0
+PacificRegional,Qual,26,TR,5462,2PawR,1,2,3,1,9,7,3,17,0,1,4,3,1,0,0
+PacificRegional,Playoff,27,AB,5462,2PawR,1,3,2,0,3,9,1,27,0,0,3,3,0,0,0
+NEDistrict,Qual,28,XZ,5462,2PawR,3,3,2,0,3,3,2,22,0,1,2,5,1,0,0
+MidwestRegional,Qual,29,LS,5462,2PawR,2,2,3,0,6,6,3,12,1,1,3,4,0,0,1
+NEDistrict,Playoff,30,AB,5462,2PawR,1,1,4,0,4,9,4,26,1,0,4,5,1,1,0
+MidwestRegional,Playoff,31,MK,5462,2PawR,1,4,4,1,7,9,1,13,1,1,3,3,0,0,0
+PacificRegional,Qual,32,LS,5462,2PawR,3,2,1,1,2,4,4,19,1,0,3,1,1,0,0
+NEDistrict,Qual,33,LS,5462,2PawR,2,3,1,0,8,6,1,18,1,1,3,3,0,0,0
+NEDistrict,Qual,1,LS,5530,The Greenhills Lawnmowers,2,0,0,1,2,8,2,15,1,0,4,4,1,0,0
+NEDistrict,Playoff,2,JD,5530,The Greenhills Lawnmowers,1,2,0,1,4,1,2,15,1,0,3,5,1,1,0
+NEDistrict,Qual,3,MK,5530,The Greenhills Lawnmowers,1,4,2,0,9,8,3,8,0,0,3,3,1,0,1
+LoneStarRegional,Playoff,4,LS,5530,The Greenhills Lawnmowers,2,1,3,1,9,6,1,27,1,1,1,5,0,0,1
+PacificRegional,Qual,5,MK,5530,The Greenhills Lawnmowers,2,2,4,0,5,7,4,1,1,0,2,5,1,0,0
+MidwestRegional,Qual,6,TR,5530,The Greenhills Lawnmowers,1,0,4,0,8,8,0,15,0,0,4,3,1,0,0
+MidwestRegional,Qual,7,JD,5530,The Greenhills Lawnmowers,1,4,1,0,9,8,4,14,1,0,4,5,0,0,1
+MidwestRegional,Qual,8,AB,5530,The Greenhills Lawnmowers,3,1,1,1,2,9,0,21,0,1,5,4,1,0,0
+LoneStarRegional,Qual,9,MK,5530,The Greenhills Lawnmowers,1,0,1,0,2,8,0,9,1,1,1,5,0,0,0
+LoneStarRegional,Playoff,10,TR,5530,The Greenhills Lawnmowers,2,3,3,0,4,4,0,1,0,1,1,5,0,0,0
+PacificRegional,Playoff,11,TR,5530,The Greenhills Lawnmowers,3,2,3,0,7,7,2,24,1,0,5,1,0,0,0
+PacificRegional,Playoff,12,TR,5530,The Greenhills Lawnmowers,2,3,3,1,7,5,2,23,1,1,2,3,1,0,0
+LoneStarRegional,Qual,13,LS,5530,The Greenhills Lawnmowers,1,0,4,1,9,7,2,11,0,0,1,5,1,0,0
+LoneStarRegional,Playoff,14,TR,5530,The Greenhills Lawnmowers,2,1,3,1,9,5,3,28,0,0,5,3,1,0,0
+NEDistrict,Qual,15,JD,5530,The Greenhills Lawnmowers,1,2,1,0,3,8,1,17,0,0,3,1,1,0,2
+MidwestRegional,Playoff,16,LS,5530,The Greenhills Lawnmowers,2,1,3,1,7,7,3,15,1,0,1,2,1,0,1
+LoneStarRegional,Playoff,17,LS,5530,The Greenhills Lawnmowers,3,3,0,0,4,5,4,2,1,1,3,5,0,0,0
+LoneStarRegional,Playoff,18,JD,5530,The Greenhills Lawnmowers,2,2,4,0,8,8,1,1,1,1,4,3,0,0,0
+MidwestRegional,Playoff,19,LS,5530,The Greenhills Lawnmowers,1,1,2,1,2,2,1,9,0,0,3,5,0,0,0
+LoneStarRegional,Playoff,20,JD,5530,The Greenhills Lawnmowers,2,0,2,0,3,2,2,21,1,0,1,1,1,0,1
+PacificRegional,Playoff,21,LS,5530,The Greenhills Lawnmowers,1,2,2,1,4,8,2,17,0,1,3,2,1,0,0
+NEDistrict,Qual,22,MK,5530,The Greenhills Lawnmowers,1,4,4,0,8,7,1,6,1,1,2,2,1,0,0
+PacificRegional,Qual,23,TR,5530,The Greenhills Lawnmowers,1,2,1,0,3,3,4,27,1,1,2,3,1,0,0
+NEDistrict,Qual,24,KP,5530,The Greenhills Lawnmowers,3,3,1,0,5,2,0,23,0,1,3,5,0,0,2
+LoneStarRegional,Playoff,25,JD,5530,The Greenhills Lawnmowers,2,4,3,0,6,8,4,7,0,1,2,5,1,0,0
+MidwestRegional,Playoff,26,XZ,5530,The Greenhills Lawnmowers,3,4,2,0,5,9,4,1,0,1,4,3,1,0,0
+PacificRegional,Qual,27,KP,5530,The Greenhills Lawnmowers,1,3,3,0,3,6,4,0,0,1,2,5,0,0,0
+LoneStarRegional,Qual,28,JD,5530,The Greenhills Lawnmowers,1,0,4,0,6,9,3,10,0,1,3,4,1,0,1
+PacificRegional,Qual,29,LS,5530,The Greenhills Lawnmowers,3,0,0,1,2,5,0,11,0,0,5,4,1,0,0
+PacificRegional,Playoff,30,XZ,5530,The Greenhills Lawnmowers,3,2,0,0,2,4,0,10,0,0,1,1,1,0,0
+LoneStarRegional,Playoff,31,TR,5530,The Greenhills Lawnmowers,1,1,0,0,5,8,0,29,1,1,5,2,0,0,0
+PacificRegional,Playoff,32,JD,5530,The Greenhills Lawnmowers,2,0,4,1,6,7,0,9,1,1,2,4,0,0,0
+MidwestRegional,Playoff,33,XZ,5530,The Greenhills Lawnmowers,2,4,2,0,7,3,4,27,1,0,5,1,1,0,1
+LoneStarRegional,Qual,1,KP,5559,Gear Grinders,3,2,4,0,5,9,3,22,0,0,3,3,1,0,0
+MidwestRegional,Playoff,2,JD,5559,Gear Grinders,2,4,4,1,7,7,3,20,1,1,3,4,1,0,0
+LoneStarRegional,Playoff,3,LS,5559,Gear Grinders,2,0,3,0,4,5,4,11,1,0,2,1,0,0,0
+LoneStarRegional,Playoff,4,KP,5559,Gear Grinders,3,3,3,1,4,8,3,6,1,1,4,2,0,0,0
+NEDistrict,Qual,5,TR,5559,Gear Grinders,2,0,3,0,4,5,3,29,0,1,1,3,1,0,1
+NEDistrict,Playoff,6,XZ,5559,Gear Grinders,2,3,2,0,4,4,0,4,0,0,5,2,0,0,0
+LoneStarRegional,Playoff,7,JD,5559,Gear Grinders,2,0,0,1,9,4,3,13,1,0,1,2,0,0,0
+LoneStarRegional,Playoff,8,MK,5559,Gear Grinders,1,3,2,1,8,7,3,0,1,0,5,5,1,0,1
+MidwestRegional,Qual,9,JD,5559,Gear Grinders,3,0,1,1,7,9,0,3,1,1,3,1,0,0,0
+PacificRegional,Playoff,10,TR,5559,Gear Grinders,3,4,4,0,6,5,2,15,1,1,1,4,0,0,0
+MidwestRegional,Playoff,11,XZ,5559,Gear Grinders,2,3,3,1,8,9,3,7,1,1,5,5,1,0,0
+NEDistrict,Playoff,12,XZ,5559,Gear Grinders,2,1,0,0,1,2,0,8,0,0,5,1,0,0,0
+MidwestRegional,Playoff,13,LS,5559,Gear Grinders,3,0,3,1,1,7,3,6,1,0,3,3,0,0,0
+MidwestRegional,Qual,14,KP,5559,Gear Grinders,3,0,1,0,0,7,4,9,0,0,3,1,1,0,0
+LoneStarRegional,Playoff,15,TR,5559,Gear Grinders,2,3,3,1,4,6,0,28,1,0,3,2,0,0,1
+NEDistrict,Playoff,16,MK,5559,Gear Grinders,2,4,1,0,5,2,3,1,1,1,5,4,1,0,0
+PacificRegional,Qual,17,LS,5559,Gear Grinders,2,1,4,0,5,6,2,7,1,0,3,2,1,0,0
+MidwestRegional,Playoff,18,TR,5559,Gear Grinders,1,3,0,0,6,5,4,30,1,1,4,5,0,1,2
+LoneStarRegional,Playoff,19,LS,5559,Gear Grinders,2,0,4,1,8,4,0,23,1,1,1,4,0,0,0
+PacificRegional,Playoff,20,MK,5559,Gear Grinders,2,3,2,0,3,7,3,6,0,0,1,3,1,0,0
+PacificRegional,Qual,21,LS,5559,Gear Grinders,3,4,3,1,4,4,0,14,1,1,3,1,1,0,0
+PacificRegional,Qual,22,JD,5559,Gear Grinders,2,0,4,0,7,6,2,7,1,0,3,3,0,0,0
+LoneStarRegional,Playoff,23,XZ,5559,Gear Grinders,1,3,1,1,4,6,4,11,0,1,3,4,1,0,0
+PacificRegional,Playoff,24,LS,5559,Gear Grinders,1,2,0,1,8,0,1,29,1,1,2,4,1,0,1
+PacificRegional,Qual,25,TR,5559,Gear Grinders,3,1,4,1,6,4,2,17,0,0,2,3,1,0,0
+PacificRegional,Playoff,26,MK,5559,Gear Grinders,2,0,4,1,1,9,2,22,1,1,4,3,1,0,0
+NEDistrict,Playoff,27,MK,5559,Gear Grinders,3,4,1,0,9,9,1,1,1,1,3,3,1,0,1
+PacificRegional,Playoff,28,KP,5559,Gear Grinders,1,2,2,1,9,4,4,17,0,0,3,1,1,0,0
+LoneStarRegional,Playoff,29,LS,5559,Gear Grinders,2,3,2,1,8,4,3,29,1,0,5,4,0,0,0
+PacificRegional,Qual,30,MK,5559,Gear Grinders,3,0,3,0,4,7,3,10,0,1,4,3,0,0,0
+LoneStarRegional,Qual,31,XZ,5559,Gear Grinders,1,1,4,1,8,8,1,28,1,0,2,1,0,0,0
+MidwestRegional,Playoff,32,AB,5559,Gear Grinders,3,3,3,1,7,8,0,18,1,1,4,5,0,0,0
+MidwestRegional,Playoff,33,AB,5559,Gear Grinders,2,2,0,1,7,6,3,2,1,1,2,2,1,0,0
+MidwestRegional,Qual,1,KP,5612,RoboRaptors,1,0,0,0,0,6,1,7,0,1,2,1,0,0,0
+LoneStarRegional,Playoff,2,XZ,5612,RoboRaptors,3,2,3,0,6,6,3,23,0,0,4,3,1,0,0
+NEDistrict,Playoff,3,JD,5612,RoboRaptors,2,0,0,1,1,5,4,1,0,0,2,5,0,0,0
+NEDistrict,Qual,4,JD,5612,RoboRaptors,3,2,4,0,3,9,1,24,1,0,2,1,1,0,0
+MidwestRegional,Playoff,5,XZ,5612,RoboRaptors,1,0,4,1,8,8,0,25,0,1,4,1,1,0,0
+MidwestRegional,Playoff,6,LS,5612,RoboRaptors,3,2,0,1,4,2,1,30,0,1,4,1,0,1,0
+MidwestRegional,Qual,7,AB,5612,RoboRaptors,3,0,3,1,5,9,2,5,1,1,4,4,1,0,0
+NEDistrict,Qual,8,AB,5612,RoboRaptors,2,3,1,0,6,7,1,21,1,0,1,3,1,0,0
+PacificRegional,Playoff,9,TR,5612,RoboRaptors,1,0,0,1,5,1,4,19,0,0,1,4,0,1,0
+PacificRegional,Playoff,10,JD,5612,RoboRaptors,2,3,1,1,3,1,0,26,1,1,4,5,1,0,0
+PacificRegional,Qual,11,AB,5612,RoboRaptors,2,2,3,0,8,7,3,23,1,1,4,3,1,0,0
+LoneStarRegional,Playoff,12,LS,5612,RoboRaptors,2,3,3,1,5,5,3,27,1,1,5,4,0,0,1
+LoneStarRegional,Playoff,13,JD,5612,RoboRaptors,3,1,1,1,7,4,1,23,1,0,2,1,1,0,0
+PacificRegional,Playoff,14,AB,5612,RoboRaptors,1,1,1,0,7,5,2,27,1,1,5,2,1,0,0
+PacificRegional,Playoff,15,XZ,5612,RoboRaptors,3,1,4,1,4,6,1,29,0,1,4,5,0,0,1
+PacificRegional,Qual,16,XZ,5612,RoboRaptors,3,4,0,0,8,8,3,19,0,1,4,5,0,0,1
+LoneStarRegional,Qual,17,AB,5612,RoboRaptors,2,3,4,0,3,6,0,4,0,1,4,3,0,0,0
+NEDistrict,Qual,18,MK,5612,RoboRaptors,2,4,4,0,5,8,3,26,0,1,4,2,0,0,0
+PacificRegional,Playoff,19,MK,5612,RoboRaptors,3,4,1,1,5,3,0,3,0,1,3,4,0,0,0
+MidwestRegional,Playoff,20,JD,5612,RoboRaptors,2,2,0,1,8,0,2,22,0,1,2,2,0,0,1
+NEDistrict,Qual,21,TR,5612,RoboRaptors,1,0,0,0,9,5,1,12,1,0,2,5,0,0,0
+NEDistrict,Qual,22,TR,5612,RoboRaptors,3,1,4,1,8,7,0,29,0,0,2,2,0,0,1
+PacificRegional,Playoff,23,MK,5612,RoboRaptors,2,3,0,0,6,3,1,30,0,1,5,5,1,0,1
+NEDistrict,Qual,24,JD,5612,RoboRaptors,1,4,3,0,9,6,1,7,1,1,5,1,0,0,0
+LoneStarRegional,Qual,25,XZ,5612,RoboRaptors,1,3,2,1,3,6,4,29,1,1,4,3,0,0,0
+PacificRegional,Qual,26,AB,5612,RoboRaptors,1,3,0,1,5,9,0,5,0,1,2,5,0,0,0
+PacificRegional,Playoff,27,KP,5612,RoboRaptors,2,2,4,0,8,8,0,6,0,0,3,5,0,0,0
+MidwestRegional,Qual,28,TR,5612,RoboRaptors,3,1,0,0,5,4,3,16,0,0,3,2,1,0,0
+MidwestRegional,Qual,29,KP,5612,RoboRaptors,1,4,0,0,5,7,4,4,1,0,4,1,0,0,0
+LoneStarRegional,Qual,30,LS,5612,RoboRaptors,2,1,2,1,6,6,1,28,1,1,2,1,0,0,0
+NEDistrict,Playoff,31,AB,5612,RoboRaptors,2,1,4,1,7,4,4,8,0,1,1,1,0,1,1
+PacificRegional,Qual,32,XZ,5612,RoboRaptors,2,0,2,1,7,9,2,11,0,1,1,1,0,0,0
+MidwestRegional,Playoff,33,KP,5612,RoboRaptors,2,0,2,1,0,7,3,22,1,0,3,3,0,0,0
+MidwestRegional,Playoff,1,KP,5676,The H.E.R.O.E.S,2,3,4,0,6,9,4,8,1,0,4,5,1,0,0
+PacificRegional,Playoff,2,AB,5676,The H.E.R.O.E.S,2,1,2,0,2,7,2,24,0,0,2,2,1,0,0
+NEDistrict,Qual,3,TR,5676,The H.E.R.O.E.S,1,2,2,0,9,6,2,15,1,1,2,4,1,0,1
+MidwestRegional,Playoff,4,LS,5676,The H.E.R.O.E.S,1,3,2,1,3,8,4,9,0,0,4,5,0,0,1
+LoneStarRegional,Qual,5,AB,5676,The H.E.R.O.E.S,3,4,1,0,8,8,3,26,1,0,3,2,1,0,0
+NEDistrict,Playoff,6,LS,5676,The H.E.R.O.E.S,1,3,2,1,4,2,4,4,0,1,2,2,1,0,1
+MidwestRegional,Playoff,7,AB,5676,The H.E.R.O.E.S,3,3,3,1,4,8,3,7,0,1,4,3,0,0,0
+LoneStarRegional,Qual,8,TR,5676,The H.E.R.O.E.S,3,2,0,1,4,7,1,21,0,1,1,2,1,1,0
+NEDistrict,Playoff,9,AB,5676,The H.E.R.O.E.S,1,2,1,1,9,3,0,15,0,0,4,1,0,0,0
+MidwestRegional,Qual,10,KP,5676,The H.E.R.O.E.S,1,2,3,1,9,6,0,16,1,1,3,2,0,0,0
+PacificRegional,Playoff,11,MK,5676,The H.E.R.O.E.S,2,0,2,0,3,9,3,30,0,1,1,5,1,0,0
+PacificRegional,Qual,12,XZ,5676,The H.E.R.O.E.S,3,0,0,1,5,5,2,23,1,1,1,3,1,0,1
+PacificRegional,Qual,13,LS,5676,The H.E.R.O.E.S,2,3,0,0,5,2,1,29,1,1,1,2,1,0,0
+NEDistrict,Playoff,14,TR,5676,The H.E.R.O.E.S,2,2,1,1,6,9,0,16,1,1,1,2,1,0,0
+LoneStarRegional,Playoff,15,XZ,5676,The H.E.R.O.E.S,3,0,2,1,5,5,1,17,0,0,5,1,1,0,0
+NEDistrict,Qual,16,KP,5676,The H.E.R.O.E.S,2,2,2,1,4,5,0,18,1,1,4,2,0,0,0
+PacificRegional,Qual,17,XZ,5676,The H.E.R.O.E.S,3,3,4,0,5,7,2,3,1,0,2,5,1,0,1
+MidwestRegional,Playoff,18,XZ,5676,The H.E.R.O.E.S,1,2,3,1,5,8,4,5,1,0,4,1,1,1,0
+MidwestRegional,Qual,19,JD,5676,The H.E.R.O.E.S,1,3,4,1,5,4,1,5,0,1,5,2,0,0,0
+NEDistrict,Qual,20,LS,5676,The H.E.R.O.E.S,2,0,4,0,2,9,0,30,1,0,3,4,0,0,2
+LoneStarRegional,Playoff,21,LS,5676,The H.E.R.O.E.S,3,1,4,0,9,6,4,28,1,0,4,2,1,0,0
+LoneStarRegional,Qual,22,MK,5676,The H.E.R.O.E.S,1,0,2,0,6,4,3,27,0,0,3,3,0,0,0
+MidwestRegional,Qual,23,LS,5676,The H.E.R.O.E.S,1,0,1,0,7,2,1,14,1,0,3,2,0,0,0
+LoneStarRegional,Playoff,24,JD,5676,The H.E.R.O.E.S,1,4,4,1,7,8,3,22,1,0,3,2,1,0,1
+LoneStarRegional,Playoff,25,KP,5676,The H.E.R.O.E.S,1,1,2,1,3,5,4,25,0,1,2,3,0,0,0
+NEDistrict,Playoff,26,JD,5676,The H.E.R.O.E.S,3,3,3,0,3,4,4,2,0,1,3,2,1,0,0
+PacificRegional,Playoff,27,TR,5676,The H.E.R.O.E.S,1,1,3,1,9,3,0,7,1,1,1,3,1,0,0
+MidwestRegional,Qual,28,XZ,5676,The H.E.R.O.E.S,3,4,3,0,7,9,1,24,1,1,5,2,1,0,1
+MidwestRegional,Qual,29,TR,5676,The H.E.R.O.E.S,3,3,1,1,3,2,3,17,0,0,2,4,1,0,1
+LoneStarRegional,Playoff,30,KP,5676,The H.E.R.O.E.S,1,3,0,1,5,7,4,14,1,0,3,2,1,0,0
+MidwestRegional,Qual,31,JD,5676,The H.E.R.O.E.S,3,1,1,1,9,9,3,7,1,0,1,1,1,0,0
+PacificRegional,Playoff,32,XZ,5676,The H.E.R.O.E.S,2,3,0,0,7,0,0,4,1,1,2,2,0,0,0
+PacificRegional,Playoff,33,LS,5676,The H.E.R.O.E.S,3,4,3,1,4,7,1,13,1,1,2,4,1,0,0
+NEDistrict,Playoff,1,TR,5756,REC'in Crew,3,1,3,0,2,9,3,15,1,0,3,5,0,0,1
+NEDistrict,Playoff,2,LS,5756,REC'in Crew,3,1,4,0,8,5,2,29,1,1,1,4,1,0,1
+LoneStarRegional,Qual,3,KP,5756,REC'in Crew,3,0,0,1,8,4,2,10,1,1,1,1,0,0,0
+PacificRegional,Qual,4,JD,5756,REC'in Crew,2,2,3,0,4,8,2,23,0,0,4,2,0,0,0
+LoneStarRegional,Qual,5,XZ,5756,REC'in Crew,1,4,1,1,4,3,2,10,0,1,1,4,0,0,0
+LoneStarRegional,Qual,6,LS,5756,REC'in Crew,1,4,3,0,5,4,3,19,1,1,3,3,1,0,1
+MidwestRegional,Playoff,7,AB,5756,REC'in Crew,3,0,4,0,7,5,1,14,0,1,3,1,1,0,0
+MidwestRegional,Playoff,8,XZ,5756,REC'in Crew,1,0,2,0,7,9,2,4,1,0,2,1,1,0,0
+NEDistrict,Qual,9,AB,5756,REC'in Crew,3,4,3,0,5,6,3,20,0,1,2,3,0,0,0
+NEDistrict,Qual,10,JD,5756,REC'in Crew,3,3,0,0,9,8,2,9,1,0,3,2,0,0,0
+NEDistrict,Qual,11,KP,5756,REC'in Crew,2,1,0,1,5,6,3,24,1,0,5,5,1,0,0
+MidwestRegional,Playoff,12,TR,5756,REC'in Crew,2,4,2,0,9,3,0,15,1,0,2,4,1,0,0
+NEDistrict,Qual,13,XZ,5756,REC'in Crew,2,3,2,0,9,6,1,10,1,0,4,3,0,0,0
+NEDistrict,Qual,14,TR,5756,REC'in Crew,2,2,1,0,2,2,4,15,1,1,1,5,0,0,0
+MidwestRegional,Qual,15,KP,5756,REC'in Crew,1,3,3,1,6,9,2,23,1,1,4,3,1,0,0
+LoneStarRegional,Playoff,16,TR,5756,REC'in Crew,1,1,2,1,2,4,3,13,1,0,5,1,0,0,0
+NEDistrict,Qual,17,AB,5756,REC'in Crew,3,0,3,1,2,8,1,25,0,0,3,2,0,0,0
+MidwestRegional,Playoff,18,JD,5756,REC'in Crew,2,3,0,0,3,4,2,14,0,1,5,3,0,0,0
+MidwestRegional,Playoff,19,LS,5756,REC'in Crew,1,1,0,0,4,0,1,30,1,1,1,3,1,0,0
+PacificRegional,Playoff,20,AB,5756,REC'in Crew,1,0,2,1,7,5,4,25,1,0,2,3,0,0,0
+LoneStarRegional,Playoff,21,LS,5756,REC'in Crew,1,1,0,0,3,6,1,23,1,1,2,5,1,0,0
+PacificRegional,Qual,22,AB,5756,REC'in Crew,1,2,0,1,4,2,1,14,1,0,1,3,1,0,0
+PacificRegional,Qual,23,AB,5756,REC'in Crew,3,2,1,1,2,8,4,3,1,0,1,4,0,0,0
+PacificRegional,Playoff,24,XZ,5756,REC'in Crew,2,4,3,0,5,8,0,28,0,1,2,1,1,0,0
+MidwestRegional,Qual,25,AB,5756,REC'in Crew,2,2,0,1,3,3,0,8,0,1,4,4,0,0,0
+PacificRegional,Playoff,26,MK,5756,REC'in Crew,2,3,2,0,3,2,2,13,1,0,5,3,1,0,0
+NEDistrict,Qual,27,MK,5756,REC'in Crew,2,0,1,0,1,2,0,29,0,1,1,3,0,0,0
+LoneStarRegional,Qual,28,AB,5756,REC'in Crew,3,3,2,0,8,3,0,10,0,0,2,4,1,0,0
+LoneStarRegional,Playoff,29,KP,5756,REC'in Crew,2,3,4,0,9,5,4,8,0,0,3,3,1,0,0
+MidwestRegional,Qual,30,TR,5756,REC'in Crew,2,3,3,1,6,4,1,10,0,0,3,4,0,0,1
+PacificRegional,Playoff,31,MK,5756,REC'in Crew,1,0,2,1,8,7,1,16,1,1,5,5,0,0,0
+PacificRegional,Playoff,32,AB,5756,REC'in Crew,2,4,1,1,4,6,0,10,1,0,4,4,0,0,1
+NEDistrict,Qual,33,LS,5756,REC'in Crew,2,3,2,0,3,9,0,13,1,0,3,4,1,0,0
+NEDistrict,Qual,1,AB,6101,Strange Quarks,3,2,3,0,7,3,0,23,1,1,5,5,1,0,1
+LoneStarRegional,Qual,2,JD,6101,Strange Quarks,1,4,3,0,8,3,0,4,1,1,5,1,0,0,0
+NEDistrict,Qual,3,LS,6101,Strange Quarks,3,2,3,0,7,6,2,29,0,0,4,4,1,0,0
+LoneStarRegional,Qual,4,AB,6101,Strange Quarks,1,0,1,0,1,4,1,1,0,0,2,1,1,0,0
+LoneStarRegional,Playoff,5,XZ,6101,Strange Quarks,2,0,0,0,8,4,0,29,0,0,4,1,0,0,2
+MidwestRegional,Playoff,6,JD,6101,Strange Quarks,2,4,1,0,8,7,0,29,0,1,4,4,1,0,0
+PacificRegional,Qual,7,KP,6101,Strange Quarks,1,0,3,1,3,3,3,23,1,0,5,5,1,0,0
+LoneStarRegional,Qual,8,KP,6101,Strange Quarks,1,3,1,1,8,1,2,4,0,1,3,2,1,0,0
+PacificRegional,Playoff,9,KP,6101,Strange Quarks,2,0,4,0,3,5,4,7,0,0,2,5,0,0,0
+MidwestRegional,Qual,10,AB,6101,Strange Quarks,2,1,1,0,8,7,2,18,0,1,5,5,1,0,1
+NEDistrict,Qual,11,KP,6101,Strange Quarks,3,2,2,0,9,7,0,20,1,0,2,1,1,0,1
+MidwestRegional,Qual,12,LS,6101,Strange Quarks,3,2,3,1,3,7,4,26,1,0,2,2,1,0,0
+MidwestRegional,Qual,13,MK,6101,Strange Quarks,1,4,0,0,6,9,4,12,0,1,5,1,0,0,0
+LoneStarRegional,Qual,14,AB,6101,Strange Quarks,1,0,1,1,6,3,2,11,1,0,1,3,1,0,0
+LoneStarRegional,Playoff,15,MK,6101,Strange Quarks,1,1,3,1,8,5,1,4,1,0,5,1,0,0,0
+LoneStarRegional,Qual,16,XZ,6101,Strange Quarks,3,3,1,0,5,2,2,10,1,0,2,3,0,0,0
+LoneStarRegional,Playoff,17,LS,6101,Strange Quarks,3,3,2,0,7,9,1,30,0,1,5,5,0,0,0
+NEDistrict,Qual,18,TR,6101,Strange Quarks,2,0,3,1,8,9,0,10,1,0,3,2,0,0,0
+PacificRegional,Qual,19,MK,6101,Strange Quarks,1,2,2,1,2,8,2,25,0,0,5,4,1,0,0
+PacificRegional,Playoff,20,JD,6101,Strange Quarks,2,2,1,0,9,3,3,2,0,1,1,5,0,0,0
+LoneStarRegional,Qual,21,LS,6101,Strange Quarks,2,3,4,1,9,6,3,3,0,0,5,4,1,0,0
+MidwestRegional,Playoff,22,LS,6101,Strange Quarks,3,3,0,0,5,1,4,29,0,1,2,3,0,0,0
+NEDistrict,Playoff,23,LS,6101,Strange Quarks,1,0,0,0,6,4,2,11,0,0,1,5,1,0,0
+LoneStarRegional,Qual,24,XZ,6101,Strange Quarks,1,3,3,1,8,8,4,12,0,1,1,5,0,0,0
+MidwestRegional,Qual,25,LS,6101,Strange Quarks,1,3,3,0,3,9,1,2,1,1,1,5,0,0,0
+PacificRegional,Playoff,26,XZ,6101,Strange Quarks,1,3,1,1,9,7,3,29,1,1,5,3,1,0,0
+MidwestRegional,Playoff,27,KP,6101,Strange Quarks,2,1,4,0,3,9,1,14,1,1,4,3,0,0,1
+MidwestRegional,Playoff,28,TR,6101,Strange Quarks,3,3,1,1,3,9,0,4,1,0,5,3,0,0,2
+NEDistrict,Qual,29,KP,6101,Strange Quarks,2,4,1,1,5,2,0,27,0,0,4,5,0,0,0
+LoneStarRegional,Playoff,30,JD,6101,Strange Quarks,3,2,1,0,3,8,1,21,0,0,5,3,0,0,0
+LoneStarRegional,Playoff,31,MK,6101,Strange Quarks,2,0,4,0,2,6,1,9,0,1,1,3,1,0,0
+PacificRegional,Qual,32,XZ,6101,Strange Quarks,2,1,2,1,1,7,0,23,1,0,5,4,0,0,0
+PacificRegional,Qual,33,XZ,6101,Strange Quarks,1,0,2,0,0,2,1,9,0,0,5,1,1,0,0
+MidwestRegional,Playoff,1,JD,6150,BlueBotics,1,1,3,1,8,9,3,10,0,1,3,5,1,0,1
+PacificRegional,Playoff,2,TR,6150,BlueBotics,2,2,1,0,3,6,3,22,1,0,1,3,0,1,1
+LoneStarRegional,Qual,3,KP,6150,BlueBotics,3,4,2,0,5,4,3,11,1,0,4,4,0,0,1
+NEDistrict,Playoff,4,JD,6150,BlueBotics,3,3,2,0,9,5,3,25,1,1,1,5,1,1,0
+LoneStarRegional,Qual,5,AB,6150,BlueBotics,3,4,2,0,7,8,1,1,1,1,3,3,0,1,2
+NEDistrict,Qual,6,XZ,6150,BlueBotics,1,2,4,0,6,8,1,25,0,1,3,4,0,0,1
+LoneStarRegional,Qual,7,TR,6150,BlueBotics,3,1,0,0,6,4,1,10,0,0,3,1,1,0,0
+NEDistrict,Playoff,8,TR,6150,BlueBotics,3,0,3,1,7,4,2,13,0,0,3,5,0,0,0
+MidwestRegional,Playoff,9,KP,6150,BlueBotics,2,2,2,1,9,3,1,11,0,1,3,3,1,0,0
+NEDistrict,Playoff,10,TR,6150,BlueBotics,3,3,1,1,8,8,1,20,1,1,5,5,1,0,0
+PacificRegional,Playoff,11,XZ,6150,BlueBotics,3,3,1,1,5,9,3,20,0,0,1,3,0,0,0
+PacificRegional,Playoff,12,AB,6150,BlueBotics,3,3,1,0,4,3,0,23,1,1,3,3,1,0,0
+MidwestRegional,Qual,13,XZ,6150,BlueBotics,2,3,4,0,6,9,1,21,0,1,5,3,0,0,0
+PacificRegional,Qual,14,KP,6150,BlueBotics,3,3,3,1,9,8,3,2,0,1,5,1,0,0,0
+MidwestRegional,Playoff,15,TR,6150,BlueBotics,2,1,1,0,7,8,2,25,0,0,4,5,0,0,0
+MidwestRegional,Playoff,16,LS,6150,BlueBotics,3,2,2,1,5,3,0,15,0,1,3,1,1,0,0
+NEDistrict,Qual,17,MK,6150,BlueBotics,1,1,2,1,1,5,1,19,1,1,2,2,1,0,0
+PacificRegional,Playoff,18,KP,6150,BlueBotics,1,3,2,0,9,8,4,3,1,0,4,2,0,0,0
+MidwestRegional,Qual,19,AB,6150,BlueBotics,2,2,1,0,4,4,4,8,1,1,2,1,1,0,1
+NEDistrict,Playoff,20,LS,6150,BlueBotics,1,3,2,1,8,8,4,26,0,0,1,4,1,0,2
+LoneStarRegional,Qual,21,KP,6150,BlueBotics,2,3,2,0,8,2,3,27,0,1,2,2,1,0,1
+NEDistrict,Qual,22,KP,6150,BlueBotics,3,0,1,1,8,2,1,13,1,0,4,2,0,0,0
+MidwestRegional,Qual,23,TR,6150,BlueBotics,2,2,2,1,2,9,3,12,1,1,1,4,1,0,0
+PacificRegional,Qual,24,KP,6150,BlueBotics,2,4,4,0,8,7,4,4,0,1,4,5,1,0,0
+PacificRegional,Playoff,25,JD,6150,BlueBotics,1,4,1,0,4,8,2,2,0,1,5,1,1,0,0
+LoneStarRegional,Playoff,26,LS,6150,BlueBotics,3,2,1,1,2,9,3,19,0,0,5,1,1,0,0
+LoneStarRegional,Qual,27,JD,6150,BlueBotics,3,3,1,1,7,9,2,0,0,0,4,2,1,0,0
+LoneStarRegional,Playoff,28,LS,6150,BlueBotics,3,1,1,0,3,6,1,9,0,1,5,5,1,0,1
+MidwestRegional,Qual,29,MK,6150,BlueBotics,1,4,2,0,5,2,4,28,1,1,1,1,1,0,2
+PacificRegional,Playoff,30,TR,6150,BlueBotics,3,0,2,1,9,8,1,29,0,1,5,1,0,0,0
+PacificRegional,Playoff,31,JD,6150,BlueBotics,3,2,4,1,9,7,3,1,0,1,2,2,1,0,1
+MidwestRegional,Qual,32,MK,6150,BlueBotics,3,4,4,1,4,6,0,30,0,1,2,1,0,0,0
+NEDistrict,Qual,33,JD,6150,BlueBotics,3,1,1,0,2,9,4,24,1,1,3,5,0,0,0
+NEDistrict,Qual,1,LS,6528,Terror Bytes,3,4,0,1,5,0,0,24,1,0,5,3,0,0,0
+MidwestRegional,Playoff,2,JD,6528,Terror Bytes,3,2,2,1,6,9,2,27,1,0,2,5,1,0,1
+LoneStarRegional,Qual,3,XZ,6528,Terror Bytes,3,1,0,0,8,1,1,9,1,1,4,2,0,0,1
+MidwestRegional,Playoff,4,KP,6528,Terror Bytes,3,1,3,0,8,6,3,13,0,1,5,3,1,0,0
+PacificRegional,Playoff,5,MK,6528,Terror Bytes,2,1,2,0,3,7,2,8,0,0,2,2,1,0,0
+PacificRegional,Playoff,6,AB,6528,Terror Bytes,2,0,2,1,1,7,1,4,1,1,1,5,0,0,0
+PacificRegional,Qual,7,KP,6528,Terror Bytes,3,2,3,0,8,5,2,30,0,0,3,2,1,0,0
+MidwestRegional,Qual,8,XZ,6528,Terror Bytes,1,1,4,1,9,8,0,1,1,1,5,5,0,0,0
+PacificRegional,Playoff,9,LS,6528,Terror Bytes,3,3,1,1,6,9,2,9,1,0,5,5,1,0,0
+NEDistrict,Qual,10,MK,6528,Terror Bytes,2,0,0,1,2,6,3,22,1,0,1,1,0,0,0
+NEDistrict,Qual,11,LS,6528,Terror Bytes,3,3,1,0,7,3,1,12,1,1,5,2,1,0,1
+MidwestRegional,Qual,12,TR,6528,Terror Bytes,1,0,0,0,7,0,4,16,1,0,4,1,1,0,0
+PacificRegional,Qual,13,TR,6528,Terror Bytes,2,1,1,0,8,7,0,1,1,0,1,1,0,0,0
+LoneStarRegional,Qual,14,AB,6528,Terror Bytes,2,0,0,0,8,6,4,3,0,0,2,4,0,1,0
+NEDistrict,Playoff,15,TR,6528,Terror Bytes,2,0,4,1,3,8,3,24,0,0,3,4,0,0,0
+MidwestRegional,Playoff,16,MK,6528,Terror Bytes,1,4,3,0,5,3,1,16,0,0,1,1,0,0,0
+NEDistrict,Qual,17,XZ,6528,Terror Bytes,1,4,1,1,5,6,0,17,1,1,2,4,1,0,1
+NEDistrict,Playoff,18,TR,6528,Terror Bytes,1,0,2,1,5,3,0,15,0,0,5,5,1,0,1
+LoneStarRegional,Playoff,19,XZ,6528,Terror Bytes,3,1,1,0,3,3,4,7,0,1,4,5,1,0,0
+NEDistrict,Playoff,20,KP,6528,Terror Bytes,3,0,1,0,0,5,4,1,1,0,5,1,1,0,0
+PacificRegional,Qual,21,LS,6528,Terror Bytes,1,4,1,1,4,3,4,27,1,0,5,1,0,0,1
+PacificRegional,Qual,22,TR,6528,Terror Bytes,1,1,3,0,4,9,0,1,1,1,2,1,0,0,0
+LoneStarRegional,Qual,23,KP,6528,Terror Bytes,3,2,0,0,6,7,2,0,1,0,2,5,0,0,1
+PacificRegional,Qual,24,TR,6528,Terror Bytes,1,3,1,0,6,2,0,19,0,0,3,4,1,0,0
+LoneStarRegional,Playoff,25,JD,6528,Terror Bytes,3,1,2,0,9,5,2,14,0,0,3,3,1,0,0
+PacificRegional,Playoff,26,KP,6528,Terror Bytes,3,1,2,0,7,4,3,14,1,1,4,5,0,0,0
+PacificRegional,Playoff,27,MK,6528,Terror Bytes,1,3,3,0,5,4,1,25,1,1,1,5,0,0,0
+NEDistrict,Playoff,28,MK,6528,Terror Bytes,3,3,0,1,6,6,0,21,0,1,4,4,1,1,0
+NEDistrict,Playoff,29,JD,6528,Terror Bytes,1,3,0,1,9,8,4,29,0,0,2,4,0,0,0
+PacificRegional,Qual,30,LS,6528,Terror Bytes,2,4,1,1,5,2,0,25,1,1,1,2,1,0,0
+LoneStarRegional,Qual,31,TR,6528,Terror Bytes,1,0,2,1,5,6,4,29,0,0,4,4,1,0,0
+PacificRegional,Playoff,32,MK,6528,Terror Bytes,2,0,1,0,6,4,1,1,1,0,4,3,1,0,0
+NEDistrict,Playoff,33,TR,6528,Terror Bytes,3,3,2,0,6,6,2,19,0,0,5,4,0,0,0
+PacificRegional,Qual,1,JD,6538,Linc-Bots,2,1,4,1,7,6,4,5,0,1,4,4,0,0,0
+PacificRegional,Playoff,2,KP,6538,Linc-Bots,1,2,2,0,2,9,0,5,0,1,4,3,0,0,0
+PacificRegional,Playoff,3,MK,6538,Linc-Bots,3,2,2,1,9,7,2,5,1,0,2,1,0,0,0
+MidwestRegional,Playoff,4,JD,6538,Linc-Bots,2,1,4,0,6,8,3,25,0,0,4,5,0,0,1
+LoneStarRegional,Playoff,5,MK,6538,Linc-Bots,1,3,4,1,7,8,0,13,0,0,5,2,0,0,1
+MidwestRegional,Playoff,6,MK,6538,Linc-Bots,2,1,3,0,8,8,3,29,0,1,1,4,1,0,1
+LoneStarRegional,Qual,7,JD,6538,Linc-Bots,2,3,4,1,3,4,2,4,0,1,5,5,1,0,0
+LoneStarRegional,Playoff,8,XZ,6538,Linc-Bots,3,1,4,0,2,4,4,13,0,0,2,2,0,0,0
+PacificRegional,Qual,9,XZ,6538,Linc-Bots,2,1,0,1,7,1,1,12,0,0,3,2,0,0,0
+LoneStarRegional,Playoff,10,MK,6538,Linc-Bots,2,2,3,1,3,6,1,8,0,1,2,3,0,0,1
+MidwestRegional,Playoff,11,TR,6538,Linc-Bots,1,0,0,1,2,3,3,14,0,1,2,2,0,0,0
+LoneStarRegional,Qual,12,AB,6538,Linc-Bots,2,3,0,1,6,0,4,4,0,0,4,4,0,0,0
+LoneStarRegional,Playoff,13,KP,6538,Linc-Bots,1,1,4,1,1,6,1,6,1,0,3,2,0,0,2
+PacificRegional,Qual,14,JD,6538,Linc-Bots,1,0,1,0,7,1,0,5,1,1,2,2,1,0,0
+MidwestRegional,Playoff,15,MK,6538,Linc-Bots,3,3,0,1,9,6,3,20,0,0,5,4,0,0,1
+NEDistrict,Qual,16,KP,6538,Linc-Bots,2,2,1,1,8,3,0,19,0,0,3,3,0,0,2
+LoneStarRegional,Qual,17,MK,6538,Linc-Bots,1,4,2,1,5,7,0,11,0,1,2,2,0,1,2
+NEDistrict,Playoff,18,KP,6538,Linc-Bots,2,4,4,1,8,6,4,19,1,0,5,1,0,0,0
+NEDistrict,Qual,19,TR,6538,Linc-Bots,1,1,4,1,7,8,0,12,1,1,4,5,0,0,0
+MidwestRegional,Qual,20,TR,6538,Linc-Bots,1,3,2,0,7,6,1,8,0,1,2,2,1,0,0
+PacificRegional,Playoff,21,AB,6538,Linc-Bots,3,3,0,1,5,2,3,21,0,1,2,1,1,0,0
+MidwestRegional,Playoff,22,TR,6538,Linc-Bots,1,4,0,0,4,9,3,12,0,1,4,5,1,0,0
+NEDistrict,Qual,23,JD,6538,Linc-Bots,3,4,1,1,4,5,1,11,0,0,4,1,0,0,0
+NEDistrict,Qual,24,XZ,6538,Linc-Bots,2,0,3,0,5,9,0,13,1,0,2,4,0,0,1
+MidwestRegional,Qual,25,LS,6538,Linc-Bots,3,4,0,1,5,0,3,7,0,0,3,5,1,1,1
+NEDistrict,Qual,26,LS,6538,Linc-Bots,1,2,2,0,7,6,3,1,1,1,4,3,1,0,0
+NEDistrict,Playoff,27,AB,6538,Linc-Bots,1,1,4,1,9,4,3,1,1,0,5,5,1,1,0
+PacificRegional,Qual,28,MK,6538,Linc-Bots,1,0,2,0,3,6,3,24,1,0,3,5,1,0,0
+MidwestRegional,Playoff,29,MK,6538,Linc-Bots,3,2,4,0,5,4,2,2,1,0,2,1,0,0,0
+LoneStarRegional,Playoff,30,AB,6538,Linc-Bots,2,2,0,1,8,0,4,7,1,0,3,3,1,0,0
+NEDistrict,Playoff,31,AB,6538,Linc-Bots,3,4,0,0,6,0,1,10,1,1,2,5,1,0,1
+NEDistrict,Playoff,32,XZ,6538,Linc-Bots,2,2,4,1,7,5,0,26,1,0,2,5,1,0,0
+PacificRegional,Playoff,33,JD,6538,Linc-Bots,1,4,3,0,6,4,4,12,0,1,1,1,0,0,0
+LoneStarRegional,Playoff,1,MK,6556,Spartan Robotics,3,1,3,1,3,7,4,24,1,0,2,4,0,0,0
+PacificRegional,Playoff,2,LS,6556,Spartan Robotics,2,2,3,0,3,3,2,15,1,1,5,5,1,0,0
+NEDistrict,Qual,3,XZ,6556,Spartan Robotics,2,0,0,0,4,7,3,6,0,0,4,5,1,0,0
+LoneStarRegional,Qual,4,LS,6556,Spartan Robotics,3,1,1,0,4,5,1,2,1,0,3,1,1,0,0
+PacificRegional,Qual,5,XZ,6556,Spartan Robotics,1,3,0,0,8,2,3,20,1,0,3,1,0,0,0
+MidwestRegional,Qual,6,MK,6556,Spartan Robotics,1,4,1,0,9,1,4,14,1,1,4,1,1,0,0
+LoneStarRegional,Qual,7,XZ,6556,Spartan Robotics,3,1,4,0,8,4,3,20,0,1,1,1,1,0,0
+PacificRegional,Qual,8,MK,6556,Spartan Robotics,1,0,1,0,2,5,2,27,1,0,1,5,1,0,1
+LoneStarRegional,Qual,9,LS,6556,Spartan Robotics,2,1,0,1,5,1,1,9,1,1,3,4,1,0,0
+NEDistrict,Qual,10,MK,6556,Spartan Robotics,1,2,0,0,5,6,2,12,1,0,4,5,0,0,0
+PacificRegional,Qual,11,XZ,6556,Spartan Robotics,2,3,4,0,4,7,1,29,0,0,2,5,1,0,0
+MidwestRegional,Qual,12,KP,6556,Spartan Robotics,1,4,0,1,4,5,2,30,0,0,1,3,1,0,0
+NEDistrict,Qual,13,AB,6556,Spartan Robotics,2,2,2,1,8,6,0,20,0,0,3,5,0,0,0
+PacificRegional,Qual,14,AB,6556,Spartan Robotics,2,1,2,0,3,6,3,27,1,1,4,3,1,0,0
+LoneStarRegional,Qual,15,LS,6556,Spartan Robotics,2,4,4,0,9,5,1,1,0,0,1,5,0,0,0
+LoneStarRegional,Playoff,16,JD,6556,Spartan Robotics,1,2,3,1,2,3,4,30,1,1,1,2,1,0,0
+PacificRegional,Qual,17,MK,6556,Spartan Robotics,1,0,1,1,6,6,1,30,0,1,5,5,0,0,0
+MidwestRegional,Playoff,18,TR,6556,Spartan Robotics,3,2,1,1,5,9,0,0,0,0,4,1,1,0,0
+LoneStarRegional,Qual,19,MK,6556,Spartan Robotics,1,1,0,1,9,9,4,15,1,0,2,2,1,0,0
+PacificRegional,Playoff,20,JD,6556,Spartan Robotics,3,4,3,1,7,7,2,2,0,1,5,4,0,0,0
+PacificRegional,Qual,21,LS,6556,Spartan Robotics,1,2,4,1,9,7,0,13,1,0,3,1,1,1,1
+LoneStarRegional,Qual,22,XZ,6556,Spartan Robotics,2,4,3,1,8,6,3,3,0,0,4,2,1,0,2
+MidwestRegional,Playoff,23,KP,6556,Spartan Robotics,1,2,1,0,2,2,1,3,1,1,3,5,1,0,0
+MidwestRegional,Playoff,24,MK,6556,Spartan Robotics,1,0,4,1,1,8,1,21,0,1,5,1,0,0,0
+MidwestRegional,Playoff,25,AB,6556,Spartan Robotics,3,4,1,1,7,9,3,23,0,1,3,4,1,0,0
+MidwestRegional,Qual,26,JD,6556,Spartan Robotics,3,0,1,0,7,5,1,22,0,1,5,3,0,0,1
+MidwestRegional,Qual,27,KP,6556,Spartan Robotics,2,4,2,0,5,4,3,26,0,1,3,5,0,0,0
+LoneStarRegional,Qual,28,JD,6556,Spartan Robotics,2,1,2,1,4,6,0,29,1,1,3,2,1,0,0
+PacificRegional,Playoff,29,JD,6556,Spartan Robotics,3,2,0,1,5,6,3,10,0,0,1,4,1,0,0
+LoneStarRegional,Playoff,30,MK,6556,Spartan Robotics,1,1,2,0,3,3,0,27,1,0,5,2,0,0,1
+NEDistrict,Playoff,31,TR,6556,Spartan Robotics,3,4,0,1,9,8,1,0,1,1,3,1,1,0,0
+MidwestRegional,Qual,32,JD,6556,Spartan Robotics,1,3,1,0,7,9,4,22,1,0,2,2,0,0,0
+MidwestRegional,Qual,33,AB,6556,Spartan Robotics,2,0,3,0,5,7,0,20,0,0,5,1,0,0,2
+MidwestRegional,Playoff,1,JD,6570,Whiteford Bobcats,3,0,3,0,7,7,4,24,1,1,4,2,0,0,0
+NEDistrict,Qual,2,KP,6570,Whiteford Bobcats,2,4,4,0,8,6,0,23,0,1,3,3,1,0,0
+LoneStarRegional,Qual,3,LS,6570,Whiteford Bobcats,1,4,3,1,4,7,3,9,1,0,5,4,1,0,0
+MidwestRegional,Playoff,4,AB,6570,Whiteford Bobcats,3,0,2,1,2,8,3,2,1,1,2,5,1,0,1
+PacificRegional,Playoff,5,LS,6570,Whiteford Bobcats,1,0,1,1,3,7,0,11,1,0,5,1,1,0,0
+MidwestRegional,Qual,6,KP,6570,Whiteford Bobcats,3,1,4,1,8,4,4,30,1,0,1,5,1,0,1
+NEDistrict,Playoff,7,MK,6570,Whiteford Bobcats,1,2,0,0,3,0,2,5,1,1,5,3,0,0,0
+NEDistrict,Playoff,8,XZ,6570,Whiteford Bobcats,1,2,1,0,7,2,2,29,0,1,4,1,0,0,0
+MidwestRegional,Qual,9,LS,6570,Whiteford Bobcats,1,1,3,0,8,7,2,2,0,1,5,1,1,0,0
+PacificRegional,Qual,10,LS,6570,Whiteford Bobcats,1,0,1,1,4,1,3,8,1,1,3,2,0,0,0
+NEDistrict,Playoff,11,JD,6570,Whiteford Bobcats,1,2,3,1,6,7,4,18,0,1,2,1,1,0,2
+NEDistrict,Playoff,12,LS,6570,Whiteford Bobcats,1,2,3,1,3,7,2,6,0,1,4,3,0,0,1
+MidwestRegional,Qual,13,KP,6570,Whiteford Bobcats,2,1,4,0,6,4,2,21,0,0,5,2,1,0,0
+PacificRegional,Playoff,14,JD,6570,Whiteford Bobcats,2,2,3,0,7,9,2,5,1,0,5,3,0,0,0
+MidwestRegional,Playoff,15,MK,6570,Whiteford Bobcats,3,1,2,1,2,2,1,2,0,0,1,1,1,0,0
+MidwestRegional,Qual,16,TR,6570,Whiteford Bobcats,3,4,4,1,5,9,4,19,0,0,1,3,1,0,0
+MidwestRegional,Qual,17,MK,6570,Whiteford Bobcats,3,3,4,0,6,4,3,24,0,1,4,3,0,0,0
+PacificRegional,Playoff,18,TR,6570,Whiteford Bobcats,3,4,1,1,9,9,2,16,0,1,4,4,0,0,0
+NEDistrict,Playoff,19,JD,6570,Whiteford Bobcats,1,4,1,0,5,8,4,23,0,1,4,5,0,0,0
+PacificRegional,Qual,20,KP,6570,Whiteford Bobcats,1,2,0,0,8,4,3,23,0,1,2,3,0,0,2
+PacificRegional,Qual,21,TR,6570,Whiteford Bobcats,2,2,3,0,7,9,1,3,0,1,5,3,1,0,0
+NEDistrict,Qual,22,XZ,6570,Whiteford Bobcats,2,2,4,1,5,7,4,22,0,1,2,2,1,0,0
+LoneStarRegional,Qual,23,JD,6570,Whiteford Bobcats,2,4,2,0,7,4,1,26,1,0,4,2,0,0,0
+MidwestRegional,Qual,24,AB,6570,Whiteford Bobcats,3,4,3,1,4,9,2,15,0,1,2,5,1,0,0
+MidwestRegional,Playoff,25,AB,6570,Whiteford Bobcats,1,1,3,0,7,6,0,15,0,0,2,3,1,0,0
+LoneStarRegional,Qual,26,TR,6570,Whiteford Bobcats,3,3,0,1,9,5,3,18,0,1,5,5,1,0,1
+MidwestRegional,Qual,27,XZ,6570,Whiteford Bobcats,1,3,1,1,9,1,2,2,0,0,2,4,0,0,0
+MidwestRegional,Playoff,28,TR,6570,Whiteford Bobcats,1,2,4,0,4,6,0,11,1,1,1,3,1,0,0
+LoneStarRegional,Qual,29,XZ,6570,Whiteford Bobcats,1,3,0,0,5,0,0,29,0,1,5,5,1,0,0
+LoneStarRegional,Playoff,30,JD,6570,Whiteford Bobcats,1,3,1,1,6,6,4,3,1,1,5,4,1,0,0
+NEDistrict,Qual,31,KP,6570,Whiteford Bobcats,3,3,1,0,8,7,4,19,1,0,5,5,1,0,0
+PacificRegional,Qual,32,TR,6570,Whiteford Bobcats,1,4,3,0,6,6,2,11,0,1,2,2,1,0,0
+LoneStarRegional,Qual,33,JD,6570,Whiteford Bobcats,3,0,4,1,7,9,1,22,1,0,2,3,0,0,0
+PacificRegional,Playoff,1,AB,7147,Falcons Senior Robo Team,3,3,2,1,6,4,2,8,1,0,3,2,1,0,0
+LoneStarRegional,Playoff,2,MK,7147,Falcons Senior Robo Team,1,3,4,0,9,5,1,16,0,1,1,5,0,0,0
+PacificRegional,Qual,3,XZ,7147,Falcons Senior Robo Team,1,4,2,0,7,5,2,1,0,1,2,3,1,0,0
+MidwestRegional,Playoff,4,AB,7147,Falcons Senior Robo Team,2,2,0,1,4,4,3,9,1,0,5,3,0,0,1
+LoneStarRegional,Qual,5,TR,7147,Falcons Senior Robo Team,2,3,2,0,8,2,1,6,0,0,2,5,0,0,2
+PacificRegional,Qual,6,AB,7147,Falcons Senior Robo Team,3,3,2,1,5,8,2,26,1,0,3,4,1,0,0
+LoneStarRegional,Qual,7,XZ,7147,Falcons Senior Robo Team,2,0,4,1,0,8,1,26,0,1,5,3,0,0,0
+NEDistrict,Qual,8,MK,7147,Falcons Senior Robo Team,2,0,2,1,4,3,0,14,0,1,4,3,1,0,0
+NEDistrict,Playoff,9,KP,7147,Falcons Senior Robo Team,1,3,4,0,5,5,3,24,1,1,2,1,0,0,0
+LoneStarRegional,Qual,10,KP,7147,Falcons Senior Robo Team,2,3,2,0,7,7,3,27,0,1,3,1,0,0,0
+LoneStarRegional,Playoff,11,JD,7147,Falcons Senior Robo Team,1,3,2,0,7,3,4,15,1,1,5,4,1,1,0
+LoneStarRegional,Qual,12,LS,7147,Falcons Senior Robo Team,2,0,2,1,5,4,4,1,0,0,5,5,1,0,0
+NEDistrict,Playoff,13,LS,7147,Falcons Senior Robo Team,3,1,3,0,4,4,2,0,0,1,2,3,0,0,2
+LoneStarRegional,Qual,14,MK,7147,Falcons Senior Robo Team,3,4,2,0,7,2,1,22,0,1,4,5,1,1,0
+MidwestRegional,Playoff,15,JD,7147,Falcons Senior Robo Team,3,2,2,0,5,7,4,18,1,0,1,3,1,0,0
+LoneStarRegional,Playoff,16,XZ,7147,Falcons Senior Robo Team,3,4,4,0,8,8,2,20,1,1,5,5,1,0,0
+LoneStarRegional,Playoff,17,TR,7147,Falcons Senior Robo Team,1,3,0,0,5,4,3,30,1,1,5,5,1,0,0
+NEDistrict,Playoff,18,KP,7147,Falcons Senior Robo Team,1,2,0,0,6,1,1,2,0,0,5,1,1,0,0
+MidwestRegional,Playoff,19,KP,7147,Falcons Senior Robo Team,3,0,0,1,3,5,0,5,1,0,1,4,0,1,0
+NEDistrict,Qual,20,AB,7147,Falcons Senior Robo Team,1,0,3,0,2,7,1,8,1,1,1,5,0,0,2
+MidwestRegional,Qual,21,LS,7147,Falcons Senior Robo Team,2,0,4,0,9,8,1,19,0,1,2,2,1,0,1
+NEDistrict,Qual,22,MK,7147,Falcons Senior Robo Team,3,1,2,1,9,7,3,7,0,1,1,3,1,0,0
+PacificRegional,Playoff,23,TR,7147,Falcons Senior Robo Team,2,0,3,0,3,3,1,20,0,0,1,5,0,0,1
+LoneStarRegional,Playoff,24,LS,7147,Falcons Senior Robo Team,2,0,4,1,2,5,3,17,1,1,2,2,0,0,0
+LoneStarRegional,Qual,25,AB,7147,Falcons Senior Robo Team,1,2,1,1,3,3,2,4,0,0,2,1,0,0,0
+PacificRegional,Qual,26,XZ,7147,Falcons Senior Robo Team,1,3,2,1,3,5,2,12,0,1,2,2,0,0,0
+PacificRegional,Playoff,27,LS,7147,Falcons Senior Robo Team,1,4,2,0,8,6,2,11,1,0,2,2,1,0,0
+MidwestRegional,Qual,28,XZ,7147,Falcons Senior Robo Team,2,0,1,1,5,6,3,23,1,1,4,4,0,0,0
+PacificRegional,Playoff,29,AB,7147,Falcons Senior Robo Team,3,3,4,1,7,4,0,12,0,0,2,1,1,0,0
+LoneStarRegional,Playoff,30,AB,7147,Falcons Senior Robo Team,3,0,0,0,2,2,2,9,1,1,5,5,1,0,0
+NEDistrict,Playoff,31,AB,7147,Falcons Senior Robo Team,3,3,2,0,8,8,1,2,0,1,4,1,0,0,0
+NEDistrict,Playoff,32,JD,7147,Falcons Senior Robo Team,1,4,4,1,7,9,0,6,0,1,1,5,1,0,0
+PacificRegional,Playoff,33,KP,7147,Falcons Senior Robo Team,1,2,1,0,8,9,4,23,1,0,3,3,0,0,0
+PacificRegional,Playoff,1,AB,7221,JHS Viking Robotics,1,4,3,0,8,4,2,10,1,1,1,5,0,0,0
+LoneStarRegional,Playoff,2,KP,7221,JHS Viking Robotics,2,1,1,1,8,2,4,25,1,0,2,3,1,0,0
+MidwestRegional,Qual,3,LS,7221,JHS Viking Robotics,2,3,4,1,6,5,1,2,0,1,2,3,1,0,0
+LoneStarRegional,Qual,4,KP,7221,JHS Viking Robotics,2,3,0,1,9,9,4,28,1,0,4,4,0,0,0
+PacificRegional,Playoff,5,AB,7221,JHS Viking Robotics,2,4,0,1,5,0,3,25,0,1,2,1,1,0,0
+NEDistrict,Playoff,6,TR,7221,JHS Viking Robotics,2,4,0,1,9,2,1,18,1,0,3,5,0,0,0
+PacificRegional,Qual,7,MK,7221,JHS Viking Robotics,1,2,4,0,4,9,3,5,1,0,5,5,1,0,0
+NEDistrict,Playoff,8,LS,7221,JHS Viking Robotics,3,4,2,0,5,8,3,2,0,0,5,2,1,0,0
+MidwestRegional,Playoff,9,TR,7221,JHS Viking Robotics,3,0,3,0,7,3,1,16,1,1,3,1,0,0,1
+PacificRegional,Qual,10,AB,7221,JHS Viking Robotics,1,0,3,1,6,8,1,13,1,0,2,1,0,0,0
+NEDistrict,Playoff,11,XZ,7221,JHS Viking Robotics,1,1,3,0,7,3,0,16,0,1,4,1,1,0,0
+MidwestRegional,Playoff,12,TR,7221,JHS Viking Robotics,2,0,4,1,1,9,4,29,1,1,4,3,1,0,1
+NEDistrict,Qual,13,LS,7221,JHS Viking Robotics,1,0,4,0,6,5,2,0,1,1,5,3,1,0,1
+NEDistrict,Qual,14,JD,7221,JHS Viking Robotics,3,3,0,0,9,1,4,17,1,0,5,2,1,0,1
+LoneStarRegional,Playoff,15,AB,7221,JHS Viking Robotics,2,3,2,0,6,6,1,28,1,1,3,3,0,0,0
+LoneStarRegional,Qual,16,LS,7221,JHS Viking Robotics,3,0,1,0,3,3,3,8,0,0,3,5,1,0,0
+NEDistrict,Qual,17,LS,7221,JHS Viking Robotics,2,2,1,1,8,6,1,25,0,1,5,1,0,0,0
+NEDistrict,Playoff,18,XZ,7221,JHS Viking Robotics,3,4,3,0,6,9,1,19,1,0,1,1,1,0,0
+NEDistrict,Playoff,19,LS,7221,JHS Viking Robotics,1,2,0,0,4,1,1,0,1,0,4,3,1,0,0
+MidwestRegional,Qual,20,MK,7221,JHS Viking Robotics,2,3,1,1,4,7,1,11,1,0,1,2,1,0,2
+PacificRegional,Playoff,21,XZ,7221,JHS Viking Robotics,3,2,0,1,3,7,4,22,1,0,1,2,1,0,0
+NEDistrict,Playoff,22,MK,7221,JHS Viking Robotics,3,4,4,0,7,6,4,3,1,1,1,1,1,0,0
+MidwestRegional,Playoff,23,AB,7221,JHS Viking Robotics,3,1,0,1,4,4,4,18,1,1,5,1,0,0,0
+LoneStarRegional,Playoff,24,TR,7221,JHS Viking Robotics,3,4,3,0,5,8,0,8,1,1,3,1,1,0,0
+MidwestRegional,Qual,25,XZ,7221,JHS Viking Robotics,1,3,0,1,4,1,1,16,0,1,1,2,1,0,1
+MidwestRegional,Qual,26,LS,7221,JHS Viking Robotics,2,2,2,1,2,3,0,20,1,1,5,4,1,0,1
+NEDistrict,Playoff,27,LS,7221,JHS Viking Robotics,3,1,4,0,9,9,2,22,0,0,3,1,1,0,0
+NEDistrict,Qual,28,JD,7221,JHS Viking Robotics,3,2,4,1,5,4,4,26,1,0,2,4,0,0,1
+NEDistrict,Qual,29,MK,7221,JHS Viking Robotics,1,4,0,0,5,7,4,9,0,1,5,1,1,0,0
+PacificRegional,Qual,30,JD,7221,JHS Viking Robotics,3,0,3,0,0,5,2,28,0,1,2,2,0,1,0
+LoneStarRegional,Qual,31,LS,7221,JHS Viking Robotics,2,1,2,0,4,9,2,2,1,0,1,3,0,0,0
+PacificRegional,Playoff,32,XZ,7221,JHS Viking Robotics,1,4,3,0,5,6,3,16,1,0,4,1,1,0,2
+NEDistrict,Qual,33,JD,7221,JHS Viking Robotics,1,4,2,0,6,5,1,13,0,0,3,5,0,0,0
+PacificRegional,Qual,1,MK,8179,Robo Falcons,2,2,4,0,8,9,0,19,0,0,4,4,1,0,0
+PacificRegional,Qual,2,TR,8179,Robo Falcons,3,1,2,0,6,3,4,5,1,1,2,5,0,1,0
+MidwestRegional,Playoff,3,KP,8179,Robo Falcons,2,2,4,0,9,6,3,21,1,0,4,3,0,0,0
+PacificRegional,Playoff,4,LS,8179,Robo Falcons,3,4,4,1,9,5,2,28,1,1,4,3,0,0,0
+NEDistrict,Qual,5,TR,8179,Robo Falcons,1,2,1,1,9,6,1,12,1,0,4,4,0,0,0
+MidwestRegional,Qual,6,XZ,8179,Robo Falcons,3,1,1,0,1,9,3,30,1,0,1,5,1,0,0
+MidwestRegional,Playoff,7,AB,8179,Robo Falcons,1,1,2,1,1,6,1,28,1,1,5,3,0,0,0
+PacificRegional,Playoff,8,AB,8179,Robo Falcons,1,4,2,0,9,4,3,20,0,0,4,3,0,0,0
+LoneStarRegional,Qual,9,JD,8179,Robo Falcons,1,1,4,0,2,7,4,17,1,1,3,5,0,0,0
+LoneStarRegional,Playoff,10,JD,8179,Robo Falcons,3,2,3,0,8,3,2,15,0,1,5,5,0,0,0
+LoneStarRegional,Qual,11,LS,8179,Robo Falcons,1,3,0,1,4,9,3,0,1,1,2,3,0,0,0
+MidwestRegional,Qual,12,KP,8179,Robo Falcons,3,1,4,0,7,5,2,25,1,1,5,4,0,0,0
+PacificRegional,Qual,13,MK,8179,Robo Falcons,3,0,2,1,8,2,1,10,0,1,2,3,0,0,0
+PacificRegional,Qual,14,LS,8179,Robo Falcons,1,1,1,0,7,2,2,25,1,0,4,4,0,0,0
+MidwestRegional,Playoff,15,KP,8179,Robo Falcons,3,4,0,1,6,0,2,15,1,1,1,2,1,0,0
+NEDistrict,Qual,16,KP,8179,Robo Falcons,2,2,2,0,3,5,3,18,1,0,4,4,0,0,0
+NEDistrict,Playoff,17,TR,8179,Robo Falcons,3,3,4,1,8,6,3,12,0,1,3,2,1,0,0
+PacificRegional,Playoff,18,XZ,8179,Robo Falcons,1,2,0,0,9,5,2,29,1,0,4,2,1,0,1
+NEDistrict,Playoff,19,LS,8179,Robo Falcons,1,4,2,1,4,4,2,5,0,1,1,2,1,1,0
+NEDistrict,Qual,20,TR,8179,Robo Falcons,2,4,1,0,7,7,2,26,0,1,3,3,1,0,0
+PacificRegional,Qual,21,MK,8179,Robo Falcons,1,3,0,1,9,5,1,29,1,1,1,1,1,0,0
+PacificRegional,Playoff,22,MK,8179,Robo Falcons,3,2,3,1,6,5,4,3,1,0,3,3,0,0,0
+LoneStarRegional,Qual,23,TR,8179,Robo Falcons,1,3,1,0,7,5,2,12,1,1,5,2,0,0,0
+LoneStarRegional,Qual,24,KP,8179,Robo Falcons,1,2,1,1,2,5,3,14,0,1,5,1,0,0,0
+MidwestRegional,Qual,25,MK,8179,Robo Falcons,1,4,2,0,9,7,4,24,1,1,2,2,1,0,0
+PacificRegional,Qual,26,XZ,8179,Robo Falcons,2,4,0,0,7,7,4,16,1,1,4,5,0,0,0
+MidwestRegional,Playoff,27,MK,8179,Robo Falcons,1,2,1,0,3,5,3,0,0,1,3,1,1,0,1
+NEDistrict,Qual,28,JD,8179,Robo Falcons,1,3,1,1,5,9,1,24,1,1,1,4,0,0,0
+NEDistrict,Qual,29,MK,8179,Robo Falcons,2,1,3,1,6,6,3,5,1,0,3,1,0,1,1
+MidwestRegional,Qual,30,XZ,8179,Robo Falcons,2,2,1,0,8,6,2,13,0,0,5,3,1,0,0
+LoneStarRegional,Qual,31,JD,8179,Robo Falcons,2,1,4,0,6,8,4,27,1,1,4,1,0,0,0
+MidwestRegional,Playoff,32,LS,8179,Robo Falcons,2,4,4,1,5,9,1,29,0,0,3,2,0,0,0
+PacificRegional,Playoff,33,JD,8179,Robo Falcons,1,0,3,0,0,7,4,18,0,0,2,4,1,0,1
+NEDistrict,Playoff,1,XZ,8297,WIHI Robo Wolves,3,1,4,1,6,4,0,12,1,0,4,5,1,0,1
+MidwestRegional,Qual,2,JD,8297,WIHI Robo Wolves,2,3,4,0,7,6,0,1,1,1,4,5,0,0,1
+NEDistrict,Qual,3,MK,8297,WIHI Robo Wolves,3,1,4,0,7,7,3,26,1,1,3,2,1,0,0
+MidwestRegional,Qual,4,XZ,8297,WIHI Robo Wolves,3,0,4,1,5,4,1,26,1,1,3,3,1,0,0
+PacificRegional,Qual,5,TR,8297,WIHI Robo Wolves,2,3,4,0,5,4,0,5,0,0,2,2,0,0,0
+PacificRegional,Playoff,6,MK,8297,WIHI Robo Wolves,1,0,3,1,7,5,0,11,0,1,4,3,0,0,1
+PacificRegional,Qual,7,XZ,8297,WIHI Robo Wolves,3,4,4,1,6,8,2,5,0,1,2,1,1,0,0
+PacificRegional,Playoff,8,LS,8297,WIHI Robo Wolves,2,2,1,1,6,5,3,20,1,0,2,1,0,0,0
+PacificRegional,Playoff,9,KP,8297,WIHI Robo Wolves,3,0,2,1,2,3,4,20,1,1,3,5,0,0,0
+PacificRegional,Qual,10,TR,8297,WIHI Robo Wolves,1,3,0,0,8,0,3,29,0,1,4,1,0,0,1
+LoneStarRegional,Qual,11,JD,8297,WIHI Robo Wolves,3,2,1,0,2,3,0,25,0,0,4,1,0,0,0
+PacificRegional,Qual,12,LS,8297,WIHI Robo Wolves,2,0,0,1,5,2,1,21,0,1,1,2,1,0,0
+PacificRegional,Playoff,13,MK,8297,WIHI Robo Wolves,1,4,0,0,4,6,4,30,1,0,3,5,0,0,0
+NEDistrict,Qual,14,MK,8297,WIHI Robo Wolves,3,3,0,1,9,7,0,27,0,1,3,1,1,0,0
+NEDistrict,Qual,15,JD,8297,WIHI Robo Wolves,1,3,2,0,4,8,0,25,0,1,1,2,0,0,0
+MidwestRegional,Qual,16,AB,8297,WIHI Robo Wolves,3,2,1,1,8,1,1,3,0,1,5,3,0,0,0
+PacificRegional,Qual,17,LS,8297,WIHI Robo Wolves,3,0,1,0,7,3,4,15,1,1,5,2,0,0,0
+LoneStarRegional,Playoff,18,JD,8297,WIHI Robo Wolves,1,2,4,1,7,4,1,8,1,0,5,1,1,0,0
+NEDistrict,Playoff,19,LS,8297,WIHI Robo Wolves,3,2,2,1,9,8,0,18,1,0,1,1,0,0,0
+MidwestRegional,Playoff,20,LS,8297,WIHI Robo Wolves,1,4,1,0,9,1,1,24,0,0,3,4,0,0,0
+PacificRegional,Playoff,21,XZ,8297,WIHI Robo Wolves,3,0,0,0,6,1,4,3,1,1,1,4,1,0,0
+MidwestRegional,Qual,22,XZ,8297,WIHI Robo Wolves,3,1,4,0,1,7,4,0,1,0,1,3,0,0,0
+LoneStarRegional,Qual,23,MK,8297,WIHI Robo Wolves,1,4,4,0,7,4,4,6,0,1,3,5,1,0,0
+LoneStarRegional,Playoff,24,TR,8297,WIHI Robo Wolves,3,2,1,1,5,4,0,30,0,0,4,5,1,1,2
+PacificRegional,Playoff,25,KP,8297,WIHI Robo Wolves,1,2,3,0,8,3,0,13,1,0,4,2,0,0,0
+MidwestRegional,Playoff,26,KP,8297,WIHI Robo Wolves,3,0,3,1,1,8,3,2,1,1,1,2,1,0,2
+PacificRegional,Qual,27,TR,8297,WIHI Robo Wolves,3,4,4,1,8,9,4,12,0,1,5,1,1,1,2
+NEDistrict,Qual,28,XZ,8297,WIHI Robo Wolves,1,4,2,1,4,6,3,2,0,1,3,5,0,0,0
+PacificRegional,Playoff,29,AB,8297,WIHI Robo Wolves,2,2,1,1,2,9,4,14,1,1,1,5,0,0,0
+PacificRegional,Playoff,30,TR,8297,WIHI Robo Wolves,3,2,0,0,6,1,2,17,1,1,2,5,0,0,0
+MidwestRegional,Qual,31,TR,8297,WIHI Robo Wolves,3,1,2,0,3,3,0,10,0,0,1,5,0,1,0
+LoneStarRegional,Playoff,32,XZ,8297,WIHI Robo Wolves,2,0,1,1,4,8,4,17,0,1,4,5,1,0,0
+LoneStarRegional,Playoff,33,AB,8297,WIHI Robo Wolves,2,4,4,0,4,4,3,10,1,1,2,3,1,0,1
+MidwestRegional,Qual,1,JD,8314,The Roar,3,2,2,0,4,4,0,5,1,0,4,4,1,0,0
+NEDistrict,Playoff,2,MK,8314,The Roar,3,4,0,0,7,7,1,6,1,1,5,5,0,0,0
+LoneStarRegional,Qual,3,JD,8314,The Roar,2,0,3,1,8,8,1,4,0,0,4,2,1,0,0
+PacificRegional,Qual,4,JD,8314,The Roar,1,2,3,0,9,7,2,29,0,0,3,5,0,0,0
+MidwestRegional,Qual,5,KP,8314,The Roar,3,3,3,0,6,4,3,12,1,0,1,3,1,0,0
+PacificRegional,Playoff,6,JD,8314,The Roar,3,2,4,1,8,8,0,6,1,1,3,4,1,0,0
+PacificRegional,Qual,7,XZ,8314,The Roar,3,1,1,1,6,3,4,18,1,0,2,2,0,0,0
+PacificRegional,Playoff,8,LS,8314,The Roar,2,3,2,1,5,7,3,30,1,0,3,4,0,0,0
+PacificRegional,Qual,9,LS,8314,The Roar,2,4,1,0,9,7,2,22,1,1,2,2,0,1,1
+LoneStarRegional,Qual,10,JD,8314,The Roar,1,0,4,0,5,5,3,3,1,1,3,5,0,0,1
+NEDistrict,Qual,11,AB,8314,The Roar,2,1,1,0,5,6,2,14,1,0,4,3,0,0,0
+LoneStarRegional,Playoff,12,JD,8314,The Roar,1,3,2,0,8,7,3,5,0,1,4,1,1,0,0
+NEDistrict,Qual,13,LS,8314,The Roar,2,4,1,1,8,3,0,6,1,0,2,4,0,0,0
+LoneStarRegional,Qual,14,JD,8314,The Roar,1,1,2,1,6,4,3,21,1,1,1,4,1,0,0
+NEDistrict,Playoff,15,KP,8314,The Roar,3,4,4,1,4,5,4,12,0,0,2,5,0,0,0
+MidwestRegional,Qual,16,LS,8314,The Roar,1,3,1,1,6,8,0,28,0,0,2,1,1,0,0
+PacificRegional,Playoff,17,XZ,8314,The Roar,1,4,4,1,8,6,0,1,0,0,1,2,0,0,2
+MidwestRegional,Qual,18,LS,8314,The Roar,3,0,3,0,8,5,1,25,1,1,5,5,1,0,1
+NEDistrict,Qual,19,AB,8314,The Roar,1,3,3,0,4,8,4,22,1,1,5,2,1,0,0
+NEDistrict,Playoff,20,LS,8314,The Roar,1,1,3,0,8,4,1,24,1,0,5,3,1,1,0
+NEDistrict,Qual,21,JD,8314,The Roar,1,2,2,1,6,4,1,0,0,1,2,3,0,0,0
+NEDistrict,Qual,22,AB,8314,The Roar,1,3,1,0,7,4,0,29,0,0,2,1,0,0,0
+NEDistrict,Qual,23,XZ,8314,The Roar,2,4,3,0,4,3,3,1,0,0,4,4,0,0,0
+LoneStarRegional,Qual,24,XZ,8314,The Roar,3,3,2,0,9,7,4,23,1,0,2,1,1,0,1
+LoneStarRegional,Qual,25,KP,8314,The Roar,1,2,3,1,6,6,2,4,1,0,4,5,0,0,2
+LoneStarRegional,Qual,26,MK,8314,The Roar,3,3,0,0,6,4,0,11,1,1,4,1,1,0,0
+NEDistrict,Qual,27,MK,8314,The Roar,1,4,2,1,8,4,2,30,1,1,4,3,0,0,1
+MidwestRegional,Qual,28,XZ,8314,The Roar,1,0,0,0,2,0,0,15,1,1,1,3,1,0,0
+NEDistrict,Playoff,29,TR,8314,The Roar,1,0,3,0,6,4,1,22,1,1,5,4,0,0,0
+PacificRegional,Playoff,30,MK,8314,The Roar,1,2,4,0,5,8,3,12,0,0,5,1,0,0,0
+MidwestRegional,Playoff,31,LS,8314,The Roar,2,0,1,0,2,5,3,7,0,0,1,5,1,0,0
+NEDistrict,Playoff,32,LS,8314,The Roar,1,4,2,0,8,2,3,27,1,0,5,2,0,0,0
+PacificRegional,Playoff,33,MK,8314,The Roar,3,4,4,0,9,7,0,23,0,1,1,4,0,0,0
+NEDistrict,Playoff,1,LS,8373,The Flying Octopi,2,2,1,1,5,2,3,30,1,0,2,3,1,0,0
+PacificRegional,Playoff,2,JD,8373,The Flying Octopi,2,2,3,0,4,4,2,17,1,0,2,5,0,0,0
+LoneStarRegional,Playoff,3,MK,8373,The Flying Octopi,1,4,1,1,9,1,1,10,1,1,4,3,0,0,1
+PacificRegional,Playoff,4,TR,8373,The Flying Octopi,2,4,4,1,6,9,3,2,1,0,2,2,0,0,0
+MidwestRegional,Qual,5,AB,8373,The Flying Octopi,1,1,0,1,9,6,2,18,0,0,1,5,1,0,0
+MidwestRegional,Qual,6,XZ,8373,The Flying Octopi,3,0,0,1,8,7,3,16,0,1,3,3,1,0,0
+PacificRegional,Playoff,7,MK,8373,The Flying Octopi,3,2,1,0,2,8,2,0,1,1,1,2,0,0,0
+LoneStarRegional,Playoff,8,TR,8373,The Flying Octopi,2,0,0,1,4,5,1,22,0,0,4,5,0,0,0
+LoneStarRegional,Qual,9,TR,8373,The Flying Octopi,2,2,4,1,5,9,3,23,1,1,3,3,0,0,0
+LoneStarRegional,Qual,10,AB,8373,The Flying Octopi,1,4,3,0,6,5,1,5,0,1,1,3,1,0,2
+PacificRegional,Playoff,11,XZ,8373,The Flying Octopi,1,2,1,1,6,3,0,7,1,1,3,5,0,0,1
+NEDistrict,Playoff,12,XZ,8373,The Flying Octopi,1,4,2,0,7,4,1,22,0,1,3,1,0,0,0
+LoneStarRegional,Playoff,13,AB,8373,The Flying Octopi,1,1,3,0,3,3,3,16,0,1,3,1,1,0,1
+NEDistrict,Playoff,14,MK,8373,The Flying Octopi,2,3,2,0,3,2,1,20,1,0,5,1,0,0,0
+PacificRegional,Qual,15,JD,8373,The Flying Octopi,1,3,2,0,3,4,0,0,1,1,2,2,1,0,0
+MidwestRegional,Playoff,16,KP,8373,The Flying Octopi,1,3,1,1,5,6,4,7,1,1,5,1,1,0,1
+PacificRegional,Qual,17,JD,8373,The Flying Octopi,1,3,2,0,6,9,0,9,0,1,2,2,0,0,0
+PacificRegional,Playoff,18,MK,8373,The Flying Octopi,2,1,4,1,4,9,2,13,0,0,3,5,1,0,0
+NEDistrict,Qual,19,MK,8373,The Flying Octopi,2,4,3,1,8,5,4,11,0,0,5,3,1,0,0
+LoneStarRegional,Playoff,20,AB,8373,The Flying Octopi,3,1,2,1,8,6,1,26,0,1,3,1,1,0,0
+MidwestRegional,Qual,21,AB,8373,The Flying Octopi,1,3,1,0,7,2,3,3,0,0,5,1,0,0,0
+PacificRegional,Qual,22,JD,8373,The Flying Octopi,1,4,1,1,4,9,1,12,1,0,4,3,1,0,0
+NEDistrict,Qual,23,TR,8373,The Flying Octopi,2,1,2,0,4,7,1,30,0,0,3,1,1,0,1
+PacificRegional,Playoff,24,LS,8373,The Flying Octopi,1,3,4,0,9,6,2,17,0,1,2,1,1,0,1
+LoneStarRegional,Playoff,25,LS,8373,The Flying Octopi,1,0,0,1,2,7,4,26,1,0,3,4,0,0,0
+MidwestRegional,Playoff,26,XZ,8373,The Flying Octopi,1,1,2,0,5,6,4,11,1,0,1,1,0,0,0
+PacificRegional,Playoff,27,TR,8373,The Flying Octopi,3,4,0,0,4,3,3,13,0,0,5,2,1,0,0
+MidwestRegional,Qual,28,TR,8373,The Flying Octopi,2,3,4,0,7,7,2,20,0,0,4,1,1,0,0
+NEDistrict,Playoff,29,JD,8373,The Flying Octopi,3,4,0,0,7,0,1,16,1,1,2,2,1,0,1
+MidwestRegional,Playoff,30,KP,8373,The Flying Octopi,2,4,1,1,4,6,0,24,0,1,3,1,0,0,0
+NEDistrict,Qual,31,AB,8373,The Flying Octopi,2,3,1,1,7,4,0,24,1,1,4,4,1,0,0
+MidwestRegional,Qual,32,LS,8373,The Flying Octopi,3,2,0,1,3,4,0,22,0,0,3,5,1,0,0
+MidwestRegional,Playoff,33,MK,8373,The Flying Octopi,2,4,1,0,5,2,3,18,0,0,1,1,0,0,0
+PacificRegional,Qual,1,JD,8423,Next Express,1,2,2,1,8,9,0,24,1,1,4,3,1,1,0
+MidwestRegional,Qual,2,JD,8423,Next Express,2,1,4,0,6,6,3,7,1,0,4,4,0,0,0
+MidwestRegional,Playoff,3,AB,8423,Next Express,2,0,4,1,9,4,1,4,1,1,4,1,1,0,0
+LoneStarRegional,Playoff,4,LS,8423,Next Express,1,1,2,1,2,9,3,16,0,0,4,5,1,0,0
+NEDistrict,Qual,5,XZ,8423,Next Express,2,4,2,1,9,4,0,22,0,0,4,1,1,0,0
+NEDistrict,Playoff,6,KP,8423,Next Express,3,2,4,1,2,7,0,7,1,0,2,1,0,0,0
+MidwestRegional,Qual,7,AB,8423,Next Express,3,0,0,0,7,0,4,6,0,1,5,2,0,0,1
+LoneStarRegional,Playoff,8,TR,8423,Next Express,3,1,2,0,6,7,0,15,0,1,4,5,0,0,0
+LoneStarRegional,Playoff,9,JD,8423,Next Express,3,2,3,0,5,3,2,15,1,0,2,1,0,0,1
+NEDistrict,Playoff,10,TR,8423,Next Express,1,1,2,1,6,6,2,23,1,0,2,5,1,0,0
+MidwestRegional,Qual,11,JD,8423,Next Express,2,2,1,1,9,2,1,29,1,1,1,1,0,0,1
+NEDistrict,Qual,12,JD,8423,Next Express,3,4,1,0,7,2,2,6,0,0,2,1,0,0,0
+LoneStarRegional,Qual,13,AB,8423,Next Express,3,2,2,1,7,5,1,26,0,0,2,5,0,0,0
+NEDistrict,Qual,14,TR,8423,Next Express,3,3,2,1,5,2,1,19,0,0,2,5,0,0,0
+MidwestRegional,Qual,15,TR,8423,Next Express,2,3,1,0,8,9,4,28,0,0,2,2,1,0,0
+MidwestRegional,Qual,16,XZ,8423,Next Express,1,0,3,0,7,8,2,4,1,0,1,3,1,0,0
+NEDistrict,Qual,17,LS,8423,Next Express,2,4,1,0,5,6,1,9,1,1,1,5,1,0,1
+LoneStarRegional,Playoff,18,JD,8423,Next Express,1,4,1,0,7,9,3,13,1,0,3,4,0,0,0
+PacificRegional,Playoff,19,TR,8423,Next Express,3,1,4,0,2,8,4,10,0,1,4,5,1,0,0
+NEDistrict,Qual,20,TR,8423,Next Express,2,2,1,0,9,5,2,5,1,1,4,5,0,0,0
+NEDistrict,Playoff,21,TR,8423,Next Express,1,2,4,0,2,7,3,22,1,0,2,1,1,0,0
+MidwestRegional,Qual,22,XZ,8423,Next Express,1,3,1,0,7,2,4,30,0,1,2,3,0,0,0
+MidwestRegional,Qual,23,XZ,8423,Next Express,2,1,0,1,6,8,1,10,0,0,1,2,1,0,2
+PacificRegional,Qual,24,JD,8423,Next Express,2,3,0,0,7,3,1,23,1,1,2,3,0,0,0
+MidwestRegional,Qual,25,LS,8423,Next Express,3,4,1,1,6,7,2,24,1,1,4,2,0,0,0
+MidwestRegional,Qual,26,JD,8423,Next Express,1,4,0,0,4,3,4,27,0,0,5,3,0,0,0
+NEDistrict,Qual,27,TR,8423,Next Express,3,3,4,1,3,7,4,25,1,1,1,2,0,0,0
+LoneStarRegional,Qual,28,TR,8423,Next Express,2,3,4,1,8,8,2,20,0,1,1,5,0,0,0
+PacificRegional,Playoff,29,MK,8423,Next Express,2,0,0,0,6,1,4,17,0,0,5,4,1,0,0
+LoneStarRegional,Qual,30,XZ,8423,Next Express,2,0,1,0,9,9,1,16,0,0,5,5,1,0,0
+NEDistrict,Qual,31,KP,8423,Next Express,3,3,4,0,7,6,4,23,0,0,3,1,1,0,0
+MidwestRegional,Qual,32,AB,8423,Next Express,1,3,1,0,4,4,1,18,1,0,1,2,0,0,0
+MidwestRegional,Playoff,33,KP,8423,Next Express,3,0,0,1,9,7,0,15,1,0,4,5,0,0,0
+MidwestRegional,Qual,1,XZ,8832,AutoDawgs,3,3,2,0,6,7,0,16,0,0,5,4,1,0,0
+NEDistrict,Playoff,2,LS,8832,AutoDawgs,3,0,0,0,6,4,1,23,0,0,2,4,0,0,1
+MidwestRegional,Qual,3,XZ,8832,AutoDawgs,3,4,1,0,7,7,3,17,1,0,5,2,0,0,1
+LoneStarRegional,Qual,4,LS,8832,AutoDawgs,2,0,2,0,2,2,2,8,1,1,4,3,0,0,1
+LoneStarRegional,Playoff,5,TR,8832,AutoDawgs,1,0,1,0,0,4,4,5,1,0,2,1,0,0,0
+MidwestRegional,Playoff,6,TR,8832,AutoDawgs,2,3,4,0,9,9,2,1,1,0,5,3,0,0,0
+PacificRegional,Qual,7,MK,8832,AutoDawgs,3,1,0,1,5,7,2,25,1,1,1,3,0,0,0
+MidwestRegional,Qual,8,JD,8832,AutoDawgs,2,0,1,1,8,8,2,5,0,0,3,3,0,0,0
+NEDistrict,Playoff,9,JD,8832,AutoDawgs,3,1,4,1,7,7,1,2,0,0,1,1,1,0,1
+PacificRegional,Playoff,10,XZ,8832,AutoDawgs,1,0,2,0,1,2,4,22,0,1,5,5,0,0,2
+LoneStarRegional,Playoff,11,XZ,8832,AutoDawgs,3,0,0,1,9,2,2,0,0,1,4,4,0,0,1
+LoneStarRegional,Playoff,12,TR,8832,AutoDawgs,1,1,2,0,2,9,3,28,0,1,1,5,0,0,0
+MidwestRegional,Qual,13,TR,8832,AutoDawgs,1,3,3,1,6,4,1,12,1,0,2,4,0,0,0
+PacificRegional,Qual,14,TR,8832,AutoDawgs,1,3,4,0,5,7,3,27,0,1,4,3,0,0,0
+LoneStarRegional,Qual,15,MK,8832,AutoDawgs,3,4,4,1,5,6,1,15,0,0,3,5,0,0,2
+PacificRegional,Qual,16,JD,8832,AutoDawgs,2,0,4,1,0,8,2,15,1,1,4,5,1,0,0
+LoneStarRegional,Qual,17,JD,8832,AutoDawgs,2,4,0,0,5,4,0,17,1,0,3,2,0,0,0
+MidwestRegional,Qual,18,AB,8832,AutoDawgs,1,1,3,0,1,6,0,29,1,1,1,2,1,0,0
+LoneStarRegional,Playoff,19,AB,8832,AutoDawgs,2,4,3,1,9,9,3,12,0,1,2,5,0,0,0
+LoneStarRegional,Playoff,20,AB,8832,AutoDawgs,3,0,4,1,2,8,1,0,0,0,2,3,0,0,0
+NEDistrict,Qual,21,XZ,8832,AutoDawgs,2,1,4,0,7,9,4,14,1,1,3,3,0,0,0
+LoneStarRegional,Playoff,22,TR,8832,AutoDawgs,2,1,3,1,3,5,4,19,0,1,4,5,0,0,0
+PacificRegional,Playoff,23,MK,8832,AutoDawgs,2,4,1,0,4,4,3,23,1,0,5,4,1,0,0
+MidwestRegional,Qual,24,MK,8832,AutoDawgs,2,1,0,0,1,5,2,4,0,0,3,5,1,0,0
+PacificRegional,Qual,25,TR,8832,AutoDawgs,2,4,2,0,8,5,2,22,0,0,1,4,1,0,0
+MidwestRegional,Playoff,26,JD,8832,AutoDawgs,1,0,4,0,6,6,3,26,0,1,5,2,0,0,0
+PacificRegional,Playoff,27,MK,8832,AutoDawgs,1,3,0,0,5,7,1,19,1,1,3,5,1,0,0
+MidwestRegional,Playoff,28,MK,8832,AutoDawgs,3,2,0,1,3,7,0,15,1,1,1,5,1,0,0
+LoneStarRegional,Qual,29,MK,8832,AutoDawgs,2,4,4,1,5,4,1,15,0,1,2,2,1,0,0
+LoneStarRegional,Playoff,30,LS,8832,AutoDawgs,1,2,4,0,5,7,0,26,1,1,4,1,0,0,0
+NEDistrict,Playoff,31,LS,8832,AutoDawgs,3,3,0,1,7,2,0,17,0,1,4,3,0,0,0
+NEDistrict,Qual,32,MK,8832,AutoDawgs,3,4,0,0,9,9,2,10,1,1,1,4,0,0,2
+NEDistrict,Qual,33,AB,8832,AutoDawgs,1,0,2,1,7,8,1,9,1,1,1,2,0,0,0
+PacificRegional,Qual,1,XZ,8895,Clinton High School,3,3,1,0,3,1,4,0,0,1,1,2,0,0,0
+NEDistrict,Qual,2,LS,8895,Clinton High School,2,1,2,0,1,9,3,14,1,1,2,1,1,0,2
+NEDistrict,Playoff,3,TR,8895,Clinton High School,2,1,1,0,2,8,0,0,1,0,5,2,1,0,1
+MidwestRegional,Qual,4,JD,8895,Clinton High School,3,0,3,1,0,3,4,18,1,1,2,1,0,0,0
+PacificRegional,Playoff,5,LS,8895,Clinton High School,2,3,0,1,7,2,2,10,1,0,3,3,0,0,0
+LoneStarRegional,Playoff,6,AB,8895,Clinton High School,3,1,0,1,4,6,2,24,1,0,1,1,1,1,0
+MidwestRegional,Playoff,7,XZ,8895,Clinton High School,2,4,2,1,9,5,4,24,0,0,2,5,1,0,0
+LoneStarRegional,Playoff,8,KP,8895,Clinton High School,1,0,1,1,4,9,4,24,1,0,5,5,1,0,0
+NEDistrict,Qual,9,XZ,8895,Clinton High School,3,2,0,1,6,4,3,4,0,1,2,2,0,0,0
+PacificRegional,Qual,10,XZ,8895,Clinton High School,2,0,4,0,1,7,3,30,0,0,1,1,1,0,0
+NEDistrict,Qual,11,JD,8895,Clinton High School,1,3,2,0,7,2,0,22,1,1,3,5,1,0,0
+NEDistrict,Playoff,12,KP,8895,Clinton High School,3,3,2,1,4,5,1,23,1,0,5,4,1,0,0
+PacificRegional,Playoff,13,LS,8895,Clinton High School,2,0,0,1,9,3,1,17,0,1,5,2,1,0,0
+NEDistrict,Qual,14,MK,8895,Clinton High School,2,1,1,1,3,9,0,28,1,1,2,4,1,0,0
+NEDistrict,Qual,15,LS,8895,Clinton High School,2,1,1,1,4,3,0,9,1,1,2,3,0,0,1
+NEDistrict,Qual,16,XZ,8895,Clinton High School,2,0,2,1,9,7,1,22,0,0,2,2,0,0,1
+NEDistrict,Playoff,17,AB,8895,Clinton High School,3,2,3,0,5,7,2,1,0,1,2,4,1,0,0
+PacificRegional,Playoff,18,LS,8895,Clinton High School,3,1,1,1,1,1,0,12,0,0,2,3,1,0,0
+NEDistrict,Qual,19,TR,8895,Clinton High School,1,2,2,1,6,2,4,1,1,1,4,5,1,1,0
+NEDistrict,Playoff,20,MK,8895,Clinton High School,2,2,2,0,2,4,4,15,1,1,3,4,1,0,1
+PacificRegional,Qual,21,MK,8895,Clinton High School,3,1,0,0,4,7,3,25,1,1,1,5,1,0,1
+NEDistrict,Qual,22,TR,8895,Clinton High School,3,1,2,0,5,4,0,28,1,0,4,2,1,0,0
+PacificRegional,Playoff,23,JD,8895,Clinton High School,3,2,0,1,2,0,4,2,0,0,5,5,0,0,0
+LoneStarRegional,Playoff,24,TR,8895,Clinton High School,1,3,3,1,9,5,0,1,1,0,1,4,1,0,0
+MidwestRegional,Qual,25,JD,8895,Clinton High School,2,4,2,1,6,9,1,17,0,1,5,5,1,0,0
+PacificRegional,Playoff,26,AB,8895,Clinton High School,3,3,2,0,3,8,2,7,1,1,3,1,0,0,0
+LoneStarRegional,Qual,27,LS,8895,Clinton High School,3,4,2,0,6,6,2,29,0,1,4,5,0,0,0
+NEDistrict,Playoff,28,LS,8895,Clinton High School,3,1,1,0,6,7,3,30,1,1,3,4,1,0,0
+NEDistrict,Qual,29,KP,8895,Clinton High School,1,4,0,0,9,2,0,4,1,1,2,3,1,0,1
+PacificRegional,Qual,30,LS,8895,Clinton High School,3,3,4,1,3,8,1,24,0,0,4,3,1,0,0
+NEDistrict,Playoff,31,TR,8895,Clinton High School,1,0,3,0,1,3,3,10,1,1,1,3,0,0,1
+MidwestRegional,Qual,32,JD,8895,Clinton High School,3,1,4,0,3,6,0,16,0,0,1,5,0,0,0
+PacificRegional,Qual,33,MK,8895,Clinton High School,3,3,4,1,5,7,1,25,1,0,2,5,1,0,0
